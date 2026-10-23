@@ -1,0 +1,2001 @@
+customer_id,first_name,last_name,email,country,signup_date,acquisition_channel
+1,Carlos,Brown,customer1@example.com,Canada,2023-04-13,Organic Search
+2,James,Ali,customer2@example.com,Germany,2023-03-13,Organic Search
+3,David,Davis,customer3@example.com,United States,2024-04-11,Paid Search
+4,Linda,Jones,customer4@example.com,Germany,2024-01-08,Email
+5,Hana,Brown,customer5@example.com,United States,2024-10-23,Email
+6,Ana,Ali,customer6@example.com,United States,2024-02-18,Organic Search
+7,Emma,Williams,customer7@example.com,Germany,2023-10-04,Social
+8,Liam,Wang,customer8@example.com,United States,2023-09-10,Paid Search
+9,Mary,Smith,customer9@example.com,United States,2023-02-28,Organic Search
+10,John,Miller,customer10@example.com,United States,2024-11-30,Paid Search
+11,Linda,Mueller,customer11@example.com,Germany,2024-11-17,Paid Search
+12,Olivia,Smith,customer12@example.com,Germany,2023-09-01,Organic Search
+13,Emma,Miller,customer13@example.com,United States,2024-10-08,Organic Search
+14,Yuki,Santos,customer14@example.com,Spain,2024-01-23,Social
+15,Yuki,Nguyen,customer15@example.com,United States,2023-12-12,Email
+16,Mei,Davis,customer16@example.com,France,2024-01-02,Social
+17,Luca,Kim,customer17@example.com,Netherlands,2023-02-04,Organic Search
+18,David,Smith,customer18@example.com,United States,2024-01-23,Social
+19,Omar,Garcia,customer19@example.com,United Kingdom,2023-04-16,Organic Search
+20,Yuki,Wang,customer20@example.com,Canada,2024-02-06,Referral
+21,Aarav,Rodriguez,customer21@example.com,France,2023-09-27,Paid Search
+22,Robert,Miller,customer22@example.com,United States,2024-04-06,Organic Search
+23,Omar,Patel,customer23@example.com,Australia,2023-10-23,Email
+24,Patricia,Williams,customer24@example.com,Germany,2023-02-22,Referral
+25,Wei,Brown,customer25@example.com,United Kingdom,2023-07-07,Organic Search
+26,Priya,Shah,customer26@example.com,United States,2023-01-15,Organic Search
+27,Olivia,Rodriguez,customer27@example.com,Canada,2024-06-04,Organic Search
+28,Fatima,Johnson,customer28@example.com,United States,2024-04-16,Organic Search
+29,Hana,Rossi,customer29@example.com,France,2024-01-27,Email
+30,Emma,Brown,customer30@example.com,United States,2024-05-04,Organic Search
+31,Wei,Williams,customer31@example.com,India,2023-05-15,Paid Search
+32,Emma,Martinez,customer32@example.com,United States,2023-02-02,Paid Search
+33,Carlos,Silva,customer33@example.com,Germany,2023-04-09,Organic Search
+34,Priya,Kim,customer34@example.com,United Kingdom,2024-06-30,Organic Search
+35,Michael,Tanaka,customer35@example.com,Australia,2024-04-06,Email
+36,John,Johnson,customer36@example.com,Canada,2024-05-17,Social
+37,Ana,Davis,customer37@example.com,France,2024-01-28,Organic Search
+38,Omar,Martinez,customer38@example.com,United States,2024-04-05,Direct
+39,John,Davis,customer39@example.com,United States,2023-08-29,Social
+40,Patricia,Chen,customer40@example.com,United States,2024-04-29,Paid Search
+41,David,Rossi,customer41@example.com,United States,2023-06-20,Referral
+42,Carlos,Shah,customer42@example.com,France,2024-11-29,Direct
+43,Jennifer,Shah,customer43@example.com,Australia,2024-11-12,Social
+44,Priya,Miller,customer44@example.com,United Kingdom,2024-10-07,Organic Search
+45,Ana,Rodriguez,customer45@example.com,India,2023-12-06,Social
+46,Yuki,Khan,customer46@example.com,United States,2024-05-20,Paid Search
+47,Carlos,Williams,customer47@example.com,United States,2023-07-09,Organic Search
+48,Olivia,Santos,customer48@example.com,Australia,2024-09-24,Direct
+49,Jennifer,Nguyen,customer49@example.com,United States,2023-12-25,Social
+50,Hana,Davis,customer50@example.com,United States,2023-11-14,Organic Search
+51,Jennifer,Rossi,customer51@example.com,United States,2024-11-14,Organic Search
+52,Wei,Rodriguez,customer52@example.com,United Kingdom,2024-11-02,Email
+53,Carlos,Tanaka,customer53@example.com,United States,2023-04-23,Organic Search
+54,Emma,Davis,customer54@example.com,United States,2023-09-25,Social
+55,Ana,Patel,customer55@example.com,United States,2023-04-23,Referral
+56,Omar,Lopez,customer56@example.com,Germany,2024-11-29,Social
+57,Mary,Davis,customer57@example.com,United States,2024-07-19,Paid Search
+58,Mary,Patel,customer58@example.com,United States,2024-01-20,Organic Search
+59,Wei,Rodriguez,customer59@example.com,United States,2024-11-14,Social
+60,John,Miller,customer60@example.com,France,2023-09-04,Email
+61,Liam,Tanaka,customer61@example.com,United States,2023-05-03,Direct
+62,Aarav,Miller,customer62@example.com,Germany,2024-09-01,Social
+63,Carlos,Dubois,customer63@example.com,Australia,2023-05-24,Paid Search
+64,Wei,Santos,customer64@example.com,France,2023-11-22,Direct
+65,Luca,Jones,customer65@example.com,France,2024-02-07,Direct
+66,David,Jones,customer66@example.com,Germany,2023-05-28,Organic Search
+67,Linda,Ali,customer67@example.com,United Kingdom,2024-10-01,Direct
+68,Emma,Nguyen,customer68@example.com,United States,2024-04-17,Social
+69,David,Ali,customer69@example.com,United States,2023-10-25,Social
+70,Liam,Wang,customer70@example.com,Brazil,2023-12-12,Social
+71,Liam,Chen,customer71@example.com,Brazil,2023-01-02,Referral
+72,Priya,Davis,customer72@example.com,Netherlands,2024-03-28,Social
+73,Robert,Mueller,customer73@example.com,United States,2023-01-09,Email
+74,Sofia,Williams,customer74@example.com,India,2023-07-27,Direct
+75,Omar,Johnson,customer75@example.com,India,2023-04-30,Direct
+76,Patricia,Jones,customer76@example.com,United States,2024-09-16,Direct
+77,Carlos,Garcia,customer77@example.com,United States,2023-09-11,Organic Search
+78,Fatima,Khan,customer78@example.com,Brazil,2023-04-09,Paid Search
+79,Mei,Silva,customer79@example.com,United Kingdom,2023-12-04,Paid Search
+80,John,Chen,customer80@example.com,United States,2024-11-11,Organic Search
+81,Wei,Silva,customer81@example.com,United States,2024-02-02,Email
+82,Luca,Mueller,customer82@example.com,Australia,2024-01-27,Social
+83,David,Nguyen,customer83@example.com,United Kingdom,2023-02-02,Social
+84,James,Khan,customer84@example.com,United States,2024-04-14,Organic Search
+85,Hana,Brown,customer85@example.com,Brazil,2023-02-07,Social
+86,Ana,Nguyen,customer86@example.com,United States,2023-10-10,Paid Search
+87,Omar,Rodriguez,customer87@example.com,Germany,2024-08-31,Social
+88,Omar,Santos,customer88@example.com,United States,2024-03-28,Social
+89,Aarav,Brown,customer89@example.com,United States,2024-05-30,Social
+90,Elizabeth,Wang,customer90@example.com,Brazil,2023-01-17,Paid Search
+91,Jennifer,Rossi,customer91@example.com,Netherlands,2023-02-15,Paid Search
+92,James,Ali,customer92@example.com,Netherlands,2023-02-06,Paid Search
+93,Hana,Rodriguez,customer93@example.com,Germany,2023-06-30,Referral
+94,Noah,Lopez,customer94@example.com,United States,2023-04-26,Paid Search
+95,Jennifer,Mueller,customer95@example.com,United States,2023-06-10,Organic Search
+96,Patricia,Santos,customer96@example.com,France,2024-07-19,Social
+97,Elizabeth,Santos,customer97@example.com,Germany,2024-09-17,Referral
+98,Noah,Silva,customer98@example.com,United Kingdom,2024-09-30,Direct
+99,Michael,Jones,customer99@example.com,France,2023-04-14,Email
+100,Priya,Lopez,customer100@example.com,United Kingdom,2023-06-25,Paid Search
+101,Jennifer,Nguyen,customer101@example.com,Australia,2024-06-21,Direct
+102,Omar,Mueller,customer102@example.com,United States,2024-06-08,Organic Search
+103,James,Silva,customer103@example.com,Canada,2023-02-05,Social
+104,Aarav,Dubois,customer104@example.com,United States,2024-05-26,Organic Search
+105,James,Brown,customer105@example.com,United States,2024-04-15,Social
+106,Priya,Martinez,customer106@example.com,United Kingdom,2023-02-20,Social
+107,Linda,Johnson,customer107@example.com,Australia,2023-05-05,Direct
+108,Linda,Kim,customer108@example.com,United States,2023-11-01,Direct
+109,John,Williams,customer109@example.com,United Kingdom,2023-02-23,Paid Search
+110,Hana,Dubois,customer110@example.com,Canada,2023-09-21,Organic Search
+111,John,Lopez,customer111@example.com,United Kingdom,2023-01-05,Direct
+112,Emma,Lopez,customer112@example.com,United Kingdom,2023-12-16,Social
+113,Robert,Jones,customer113@example.com,Brazil,2024-10-17,Social
+114,Ana,Dubois,customer114@example.com,United States,2024-10-31,Paid Search
+115,Emma,Garcia,customer115@example.com,Canada,2024-08-26,Organic Search
+116,David,Mueller,customer116@example.com,Spain,2024-04-18,Direct
+117,Olivia,Wang,customer117@example.com,France,2024-01-28,Organic Search
+118,Michael,Nguyen,customer118@example.com,United States,2024-09-25,Organic Search
+119,Omar,Ali,customer119@example.com,United States,2024-09-29,Organic Search
+120,Yuki,Miller,customer120@example.com,United States,2023-08-25,Referral
+121,Yuki,Martinez,customer121@example.com,United States,2024-03-22,Email
+122,Wei,Khan,customer122@example.com,United Kingdom,2023-03-17,Organic Search
+123,Carlos,Shah,customer123@example.com,United States,2023-03-27,Organic Search
+124,Luca,Mueller,customer124@example.com,United States,2023-03-10,Paid Search
+125,Luca,Brown,customer125@example.com,United Kingdom,2024-03-28,Organic Search
+126,Linda,Davis,customer126@example.com,Australia,2024-03-07,Paid Search
+127,John,Patel,customer127@example.com,United States,2023-09-11,Paid Search
+128,James,Kim,customer128@example.com,Spain,2024-06-05,Direct
+129,Emma,Davis,customer129@example.com,United States,2023-06-29,Social
+130,Liam,Davis,customer130@example.com,United Kingdom,2024-03-17,Social
+131,James,Williams,customer131@example.com,Germany,2024-05-30,Referral
+132,Yuki,Santos,customer132@example.com,United States,2023-09-15,Social
+133,Mary,Davis,customer133@example.com,Australia,2024-04-19,Email
+134,John,Johnson,customer134@example.com,Germany,2024-11-05,Paid Search
+135,Aarav,Williams,customer135@example.com,Australia,2024-11-21,Social
+136,Noah,Davis,customer136@example.com,Spain,2024-07-30,Direct
+137,David,Khan,customer137@example.com,United States,2024-07-09,Organic Search
+138,Sofia,Miller,customer138@example.com,United States,2023-10-29,Organic Search
+139,Emma,Jones,customer139@example.com,United States,2023-02-04,Social
+140,Hana,Kim,customer140@example.com,Australia,2024-08-27,Organic Search
+141,Liam,Dubois,customer141@example.com,United States,2024-02-22,Social
+142,Linda,Dubois,customer142@example.com,United States,2024-05-15,Referral
+143,Fatima,Wang,customer143@example.com,Canada,2024-01-11,Direct
+144,Michael,Brown,customer144@example.com,United States,2024-11-06,Email
+145,Patricia,Khan,customer145@example.com,Germany,2023-07-11,Email
+146,Mei,Shah,customer146@example.com,United States,2024-07-01,Email
+147,Mei,Wang,customer147@example.com,India,2024-10-25,Social
+148,Luca,Ali,customer148@example.com,France,2024-01-04,Email
+149,Mary,Khan,customer149@example.com,United Kingdom,2023-09-30,Social
+150,Carlos,Santos,customer150@example.com,United States,2023-12-08,Organic Search
+151,Patricia,Johnson,customer151@example.com,United States,2024-09-03,Direct
+152,Wei,Ali,customer152@example.com,United States,2023-03-17,Referral
+153,Aarav,Brown,customer153@example.com,United Kingdom,2024-01-19,Social
+154,Linda,Miller,customer154@example.com,United States,2023-05-24,Paid Search
+155,Michael,Nguyen,customer155@example.com,United Kingdom,2023-01-25,Organic Search
+156,Luca,Jones,customer156@example.com,Canada,2024-07-18,Email
+157,Mei,Garcia,customer157@example.com,Netherlands,2023-04-19,Referral
+158,David,Rossi,customer158@example.com,United Kingdom,2024-02-02,Paid Search
+159,Linda,Williams,customer159@example.com,United Kingdom,2023-08-03,Email
+160,Luca,Nguyen,customer160@example.com,France,2024-08-10,Direct
+161,Patricia,Johnson,customer161@example.com,Australia,2023-09-10,Paid Search
+162,Carlos,Nguyen,customer162@example.com,United States,2023-06-17,Direct
+163,James,Williams,customer163@example.com,United States,2024-09-25,Social
+164,Omar,Davis,customer164@example.com,Brazil,2024-02-26,Paid Search
+165,Jennifer,Wang,customer165@example.com,Australia,2023-12-08,Referral
+166,Sofia,Dubois,customer166@example.com,Germany,2023-08-05,Paid Search
+167,Michael,Chen,customer167@example.com,United States,2023-09-09,Email
+168,Mary,Garcia,customer168@example.com,France,2023-07-01,Organic Search
+169,Wei,Smith,customer169@example.com,United States,2024-06-14,Social
+170,Wei,Rodriguez,customer170@example.com,United States,2024-10-14,Social
+171,Fatima,Rossi,customer171@example.com,United States,2024-10-21,Organic Search
+172,Elizabeth,Wang,customer172@example.com,Canada,2023-12-27,Email
+173,Yuki,Ali,customer173@example.com,Spain,2023-12-14,Paid Search
+174,Fatima,Nguyen,customer174@example.com,United States,2024-01-04,Social
+175,Ana,Tanaka,customer175@example.com,Spain,2023-04-27,Organic Search
+176,Sofia,Jones,customer176@example.com,United Kingdom,2024-11-02,Paid Search
+177,Michael,Martinez,customer177@example.com,United Kingdom,2023-03-21,Referral
+178,Michael,Johnson,customer178@example.com,United States,2023-08-17,Email
+179,Liam,Ali,customer179@example.com,United Kingdom,2024-03-16,Social
+180,Emma,Johnson,customer180@example.com,United States,2024-06-09,Referral
+181,Hana,Patel,customer181@example.com,Germany,2024-07-19,Direct
+182,Mary,Johnson,customer182@example.com,Spain,2023-01-12,Organic Search
+183,Liam,Dubois,customer183@example.com,United Kingdom,2023-12-24,Social
+184,Noah,Mueller,customer184@example.com,United States,2023-01-08,Social
+185,Jennifer,Johnson,customer185@example.com,United States,2024-10-09,Social
+186,Noah,Williams,customer186@example.com,United States,2023-02-10,Paid Search
+187,Jennifer,Williams,customer187@example.com,United States,2023-05-25,Paid Search
+188,Olivia,Williams,customer188@example.com,France,2024-04-05,Organic Search
+189,Ana,Davis,customer189@example.com,United States,2024-07-11,Referral
+190,Wei,Brown,customer190@example.com,Germany,2023-09-13,Direct
+191,Liam,Davis,customer191@example.com,Netherlands,2023-01-10,Direct
+192,Liam,Silva,customer192@example.com,United States,2023-01-05,Paid Search
+193,Mary,Silva,customer193@example.com,United Kingdom,2023-03-06,Referral
+194,John,Wang,customer194@example.com,United States,2023-10-09,Referral
+195,Ana,Kim,customer195@example.com,Australia,2024-11-19,Paid Search
+196,Liam,Mueller,customer196@example.com,United States,2023-04-09,Organic Search
+197,Aarav,Rodriguez,customer197@example.com,France,2024-06-01,Social
+198,Michael,Khan,customer198@example.com,Brazil,2024-10-06,Social
+199,Yuki,Patel,customer199@example.com,Spain,2024-07-18,Direct
+200,Linda,Rodriguez,customer200@example.com,United States,2023-05-25,Organic Search
+201,Wei,Jones,customer201@example.com,Spain,2023-01-01,Social
+202,Ana,Santos,customer202@example.com,India,2024-03-21,Email
+203,Elizabeth,Rossi,customer203@example.com,United States,2023-02-03,Organic Search
+204,Aarav,Lopez,customer204@example.com,United Kingdom,2023-06-03,Paid Search
+205,John,Smith,customer205@example.com,India,2023-11-02,Social
+206,Luca,Silva,customer206@example.com,United States,2024-01-24,Email
+207,Liam,Brown,customer207@example.com,United States,2024-02-05,Organic Search
+208,John,Nguyen,customer208@example.com,Canada,2023-07-26,Social
+209,Michael,Mueller,customer209@example.com,United States,2023-03-16,Organic Search
+210,David,Jones,customer210@example.com,Germany,2023-11-02,Paid Search
+211,Priya,Williams,customer211@example.com,Netherlands,2024-03-10,Paid Search
+212,Linda,Shah,customer212@example.com,United Kingdom,2023-06-15,Direct
+213,Elizabeth,Garcia,customer213@example.com,Germany,2024-06-25,Direct
+214,Luca,Nguyen,customer214@example.com,Canada,2023-05-13,Paid Search
+215,Yuki,Martinez,customer215@example.com,United Kingdom,2024-02-05,Organic Search
+216,Olivia,Santos,customer216@example.com,Brazil,2023-03-10,Social
+217,Noah,Smith,customer217@example.com,United States,2023-07-24,Social
+218,Ana,Nguyen,customer218@example.com,United States,2023-04-21,Organic Search
+219,Elizabeth,Khan,customer219@example.com,United States,2023-04-05,Email
+220,Patricia,Jones,customer220@example.com,France,2023-12-26,Paid Search
+221,David,Brown,customer221@example.com,United Kingdom,2023-07-14,Referral
+222,Patricia,Ali,customer222@example.com,United States,2023-03-02,Organic Search
+223,Emma,Jones,customer223@example.com,United States,2023-01-05,Paid Search
+224,David,Martinez,customer224@example.com,United States,2024-06-17,Organic Search
+225,Olivia,Miller,customer225@example.com,United States,2023-08-21,Direct
+226,Yuki,Patel,customer226@example.com,United States,2023-03-19,Paid Search
+227,Michael,Khan,customer227@example.com,United Kingdom,2023-09-06,Email
+228,Carlos,Rodriguez,customer228@example.com,India,2023-02-25,Referral
+229,Noah,Dubois,customer229@example.com,United States,2024-07-26,Direct
+230,David,Johnson,customer230@example.com,Canada,2023-01-08,Organic Search
+231,John,Santos,customer231@example.com,United States,2023-10-30,Social
+232,Mei,Rodriguez,customer232@example.com,Canada,2024-04-18,Social
+233,Mary,Smith,customer233@example.com,Canada,2024-01-21,Organic Search
+234,Aarav,Lopez,customer234@example.com,United States,2023-11-08,Email
+235,Robert,Santos,customer235@example.com,United Kingdom,2023-12-29,Organic Search
+236,David,Garcia,customer236@example.com,United States,2024-05-20,Paid Search
+237,Hana,Rossi,customer237@example.com,United States,2023-07-11,Paid Search
+238,Emma,Tanaka,customer238@example.com,United States,2023-02-08,Organic Search
+239,Mei,Nguyen,customer239@example.com,United Kingdom,2024-04-18,Organic Search
+240,James,Brown,customer240@example.com,Germany,2024-06-08,Email
+241,John,Tanaka,customer241@example.com,Germany,2023-03-08,Paid Search
+242,Robert,Nguyen,customer242@example.com,United Kingdom,2023-08-16,Social
+243,Mary,Shah,customer243@example.com,United Kingdom,2024-01-04,Paid Search
+244,Liam,Nguyen,customer244@example.com,United States,2024-09-04,Social
+245,Robert,Wang,customer245@example.com,United States,2024-03-18,Referral
+246,Robert,Johnson,customer246@example.com,United States,2024-01-12,Organic Search
+247,Elizabeth,Shah,customer247@example.com,United States,2024-08-04,Organic Search
+248,Fatima,Johnson,customer248@example.com,United States,2024-03-21,Organic Search
+249,Priya,Miller,customer249@example.com,United States,2023-05-17,Social
+250,Ana,Davis,customer250@example.com,France,2023-02-09,Referral
+251,Ana,Brown,customer251@example.com,United States,2023-01-06,Referral
+252,Priya,Lopez,customer252@example.com,United States,2023-01-04,Referral
+253,Emma,Wang,customer253@example.com,United States,2024-08-28,Email
+254,Olivia,Ali,customer254@example.com,France,2024-03-16,Social
+255,Robert,Davis,customer255@example.com,United States,2023-01-26,Email
+256,Jennifer,Garcia,customer256@example.com,Spain,2023-11-22,Email
+257,Mei,Smith,customer257@example.com,Canada,2023-08-13,Social
+258,Jennifer,Ali,customer258@example.com,Germany,2023-01-01,Paid Search
+259,Aarav,Wang,customer259@example.com,Netherlands,2023-05-19,Paid Search
+260,Fatima,Khan,customer260@example.com,United States,2023-09-16,Paid Search
+261,Hana,Davis,customer261@example.com,United Kingdom,2023-01-10,Social
+262,David,Garcia,customer262@example.com,France,2023-01-13,Organic Search
+263,Fatima,Tanaka,customer263@example.com,France,2023-11-15,Email
+264,Patricia,Chen,customer264@example.com,United States,2024-07-03,Paid Search
+265,Mary,Dubois,customer265@example.com,Australia,2024-08-03,Referral
+266,Linda,Miller,customer266@example.com,Netherlands,2023-11-30,Referral
+267,Luca,Shah,customer267@example.com,United States,2024-08-10,Referral
+268,Elizabeth,Davis,customer268@example.com,Germany,2023-11-16,Direct
+269,Linda,Smith,customer269@example.com,United States,2023-08-17,Organic Search
+270,Ana,Miller,customer270@example.com,Australia,2023-06-14,Email
+271,Wei,Patel,customer271@example.com,Netherlands,2024-02-14,Paid Search
+272,David,Williams,customer272@example.com,United States,2023-02-11,Direct
+273,Omar,Rodriguez,customer273@example.com,France,2023-10-22,Direct
+274,Priya,Santos,customer274@example.com,United States,2024-09-28,Email
+275,Noah,Chen,customer275@example.com,Germany,2023-05-23,Paid Search
+276,Ana,Nguyen,customer276@example.com,United Kingdom,2024-05-17,Organic Search
+277,Aarav,Smith,customer277@example.com,Germany,2023-04-14,Organic Search
+278,Patricia,Rodriguez,customer278@example.com,United States,2024-10-07,Email
+279,Jennifer,Kim,customer279@example.com,United States,2024-07-07,Email
+280,David,Johnson,customer280@example.com,United Kingdom,2024-10-30,Email
+281,Patricia,Silva,customer281@example.com,Brazil,2024-02-24,Email
+282,Mei,Shah,customer282@example.com,Canada,2024-02-15,Organic Search
+283,Hana,Patel,customer283@example.com,France,2024-08-20,Social
+284,Mei,Silva,customer284@example.com,Australia,2023-04-28,Organic Search
+285,Noah,Brown,customer285@example.com,United Kingdom,2023-08-16,Social
+286,Wei,Kim,customer286@example.com,Canada,2023-01-15,Organic Search
+287,Michael,Rodriguez,customer287@example.com,United States,2023-02-16,Email
+288,Mary,Tanaka,customer288@example.com,Germany,2024-02-15,Email
+289,Mei,Smith,customer289@example.com,France,2023-10-19,Social
+290,Noah,Nguyen,customer290@example.com,United States,2024-10-21,Direct
+291,Ana,Ali,customer291@example.com,United States,2024-07-03,Paid Search
+292,Hana,Ali,customer292@example.com,Spain,2023-12-12,Organic Search
+293,Ana,Miller,customer293@example.com,United States,2023-05-21,Organic Search
+294,Priya,Wang,customer294@example.com,France,2024-09-14,Social
+295,John,Khan,customer295@example.com,Netherlands,2023-12-22,Email
+296,Aarav,Silva,customer296@example.com,United States,2023-05-07,Social
+297,Aarav,Khan,customer297@example.com,United States,2024-01-13,Organic Search
+298,Patricia,Ali,customer298@example.com,Netherlands,2024-04-06,Referral
+299,Elizabeth,Mueller,customer299@example.com,United States,2024-02-11,Organic Search
+300,Elizabeth,Khan,customer300@example.com,Australia,2023-12-12,Organic Search
+301,Mei,Patel,customer301@example.com,India,2023-01-01,Social
+302,Wei,Tanaka,customer302@example.com,United States,2024-10-22,Email
+303,Elizabeth,Nguyen,customer303@example.com,Australia,2023-07-21,Organic Search
+304,Robert,Miller,customer304@example.com,United States,2024-07-28,Direct
+305,Mei,Khan,customer305@example.com,United Kingdom,2024-01-21,Social
+306,Wei,Khan,customer306@example.com,United Kingdom,2023-12-13,Organic Search
+307,Hana,Garcia,customer307@example.com,United States,2023-06-28,Social
+308,Olivia,Kim,customer308@example.com,United States,2023-06-29,Direct
+309,Elizabeth,Chen,customer309@example.com,Canada,2023-06-26,Organic Search
+310,Emma,Smith,customer310@example.com,United States,2024-10-27,Email
+311,Elizabeth,Martinez,customer311@example.com,United Kingdom,2023-03-25,Social
+312,Michael,Wang,customer312@example.com,United States,2023-12-08,Referral
+313,Fatima,Kim,customer313@example.com,United States,2024-07-14,Paid Search
+314,Olivia,Santos,customer314@example.com,United States,2023-08-03,Email
+315,Aarav,Rossi,customer315@example.com,United States,2023-11-14,Organic Search
+316,Luca,Rossi,customer316@example.com,United States,2024-03-04,Direct
+317,Ana,Miller,customer317@example.com,United States,2023-01-19,Email
+318,Noah,Dubois,customer318@example.com,United Kingdom,2023-06-24,Social
+319,Fatima,Ali,customer319@example.com,United States,2023-04-23,Social
+320,Jennifer,Khan,customer320@example.com,United States,2024-10-05,Direct
+321,John,Martinez,customer321@example.com,United States,2024-10-04,Organic Search
+322,Noah,Khan,customer322@example.com,United States,2023-06-11,Organic Search
+323,Carlos,Silva,customer323@example.com,Australia,2024-04-20,Direct
+324,Aarav,Williams,customer324@example.com,United States,2023-01-08,Organic Search
+325,Omar,Davis,customer325@example.com,United Kingdom,2024-03-18,Social
+326,Ana,Martinez,customer326@example.com,United Kingdom,2023-08-27,Direct
+327,Linda,Miller,customer327@example.com,United States,2024-08-26,Organic Search
+328,Robert,Smith,customer328@example.com,Brazil,2023-04-06,Social
+329,Mary,Davis,customer329@example.com,Spain,2024-05-05,Referral
+330,Sofia,Silva,customer330@example.com,United States,2023-07-01,Paid Search
+331,Omar,Williams,customer331@example.com,Germany,2023-01-07,Email
+332,Luca,Wang,customer332@example.com,United States,2023-03-26,Organic Search
+333,Carlos,Kim,customer333@example.com,Germany,2024-07-01,Email
+334,Michael,Tanaka,customer334@example.com,United States,2024-06-06,Paid Search
+335,Yuki,Chen,customer335@example.com,United States,2024-04-15,Direct
+336,Sofia,Chen,customer336@example.com,United Kingdom,2023-09-13,Paid Search
+337,Linda,Jones,customer337@example.com,Brazil,2024-05-14,Email
+338,Carlos,Tanaka,customer338@example.com,India,2024-08-15,Social
+339,James,Lopez,customer339@example.com,United States,2023-05-08,Social
+340,Omar,Brown,customer340@example.com,United States,2023-07-28,Social
+341,Omar,Wang,customer341@example.com,United States,2023-08-25,Organic Search
+342,Linda,Garcia,customer342@example.com,Australia,2023-10-05,Referral
+343,Fatima,Tanaka,customer343@example.com,Netherlands,2024-03-17,Email
+344,Noah,Rossi,customer344@example.com,Australia,2023-03-16,Social
+345,Mary,Nguyen,customer345@example.com,Germany,2023-02-11,Organic Search
+346,Linda,Brown,customer346@example.com,United States,2023-01-17,Social
+347,Luca,Jones,customer347@example.com,United States,2024-08-10,Organic Search
+348,Fatima,Rossi,customer348@example.com,Netherlands,2023-01-27,Direct
+349,Ana,Mueller,customer349@example.com,United States,2023-06-17,Social
+350,Emma,Silva,customer350@example.com,Germany,2024-03-30,Direct
+351,Aarav,Lopez,customer351@example.com,Canada,2024-04-20,Paid Search
+352,Luca,Silva,customer352@example.com,United States,2023-05-10,Email
+353,Hana,Mueller,customer353@example.com,Germany,2024-11-23,Organic Search
+354,Mei,Nguyen,customer354@example.com,Australia,2023-05-29,Paid Search
+355,Luca,Garcia,customer355@example.com,France,2024-11-06,Paid Search
+356,Hana,Dubois,customer356@example.com,Spain,2023-08-15,Paid Search
+357,Luca,Rodriguez,customer357@example.com,Netherlands,2024-10-25,Email
+358,Omar,Davis,customer358@example.com,United States,2023-10-16,Social
+359,Carlos,Rodriguez,customer359@example.com,Germany,2024-04-11,Organic Search
+360,Omar,Lopez,customer360@example.com,Germany,2024-05-21,Paid Search
+361,Noah,Dubois,customer361@example.com,United Kingdom,2023-06-03,Paid Search
+362,Carlos,Davis,customer362@example.com,France,2023-10-23,Social
+363,David,Rossi,customer363@example.com,United States,2024-09-07,Organic Search
+364,John,Tanaka,customer364@example.com,United States,2023-05-11,Organic Search
+365,Elizabeth,Davis,customer365@example.com,United States,2024-03-10,Social
+366,David,Patel,customer366@example.com,United States,2023-10-02,Direct
+367,Aarav,Nguyen,customer367@example.com,Spain,2023-01-17,Paid Search
+368,John,Jones,customer368@example.com,United Kingdom,2023-01-12,Direct
+369,Robert,Davis,customer369@example.com,Canada,2024-10-22,Email
+370,Wei,Tanaka,customer370@example.com,United States,2023-07-19,Social
+371,Robert,Tanaka,customer371@example.com,France,2024-10-16,Organic Search
+372,Michael,Williams,customer372@example.com,United States,2024-06-21,Email
+373,Mei,Wang,customer373@example.com,United States,2024-02-05,Social
+374,Aarav,Nguyen,customer374@example.com,United States,2023-09-07,Organic Search
+375,Luca,Wang,customer375@example.com,United States,2024-06-02,Referral
+376,Mary,Miller,customer376@example.com,United States,2024-05-12,Email
+377,Mei,Chen,customer377@example.com,India,2023-08-11,Direct
+378,Omar,Kim,customer378@example.com,United Kingdom,2024-02-06,Social
+379,Yuki,Smith,customer379@example.com,Germany,2024-06-09,Organic Search
+380,Omar,Kim,customer380@example.com,United Kingdom,2023-07-07,Direct
+381,Wei,Dubois,customer381@example.com,United States,2023-06-20,Email
+382,James,Shah,customer382@example.com,Germany,2023-12-30,Direct
+383,Elizabeth,Lopez,customer383@example.com,Canada,2024-05-30,Paid Search
+384,Wei,Wang,customer384@example.com,India,2023-06-10,Social
+385,Emma,Ali,customer385@example.com,United States,2024-03-25,Direct
+386,Hana,Nguyen,customer386@example.com,United States,2024-02-18,Organic Search
+387,Fatima,Silva,customer387@example.com,Netherlands,2023-10-01,Email
+388,Linda,Dubois,customer388@example.com,United States,2023-02-08,Organic Search
+389,Linda,Rodriguez,customer389@example.com,United States,2024-04-21,Paid Search
+390,Mei,Dubois,customer390@example.com,India,2023-09-29,Referral
+391,James,Chen,customer391@example.com,United States,2023-09-23,Paid Search
+392,Aarav,Khan,customer392@example.com,Canada,2023-12-06,Organic Search
+393,Ana,Chen,customer393@example.com,United Kingdom,2023-01-03,Paid Search
+394,Hana,Garcia,customer394@example.com,France,2023-11-20,Social
+395,Luca,Jones,customer395@example.com,United States,2024-03-07,Referral
+396,Olivia,Nguyen,customer396@example.com,United States,2024-08-07,Paid Search
+397,James,Chen,customer397@example.com,Spain,2023-05-20,Email
+398,Liam,Kim,customer398@example.com,United States,2024-01-15,Direct
+399,Ana,Smith,customer399@example.com,Germany,2023-10-29,Direct
+400,John,Santos,customer400@example.com,United States,2023-08-14,Referral
+401,Mei,Jones,customer401@example.com,United States,2024-07-24,Direct
+402,Luca,Garcia,customer402@example.com,Germany,2023-11-06,Social
+403,Mary,Rodriguez,customer403@example.com,United States,2023-11-26,Paid Search
+404,Wei,Patel,customer404@example.com,Canada,2024-05-20,Paid Search
+405,Michael,Rossi,customer405@example.com,Spain,2023-02-23,Direct
+406,Aarav,Patel,customer406@example.com,Germany,2023-04-09,Social
+407,Omar,Chen,customer407@example.com,United Kingdom,2024-05-04,Social
+408,David,Lopez,customer408@example.com,United States,2023-05-25,Direct
+409,Mei,Rodriguez,customer409@example.com,Canada,2023-04-30,Organic Search
+410,John,Dubois,customer410@example.com,Germany,2024-08-02,Organic Search
+411,James,Ali,customer411@example.com,United States,2024-09-08,Organic Search
+412,Emma,Johnson,customer412@example.com,India,2024-06-24,Referral
+413,Priya,Davis,customer413@example.com,United States,2023-11-28,Paid Search
+414,Carlos,Williams,customer414@example.com,United Kingdom,2024-06-20,Organic Search
+415,Omar,Santos,customer415@example.com,United States,2023-05-04,Organic Search
+416,Mary,Lopez,customer416@example.com,United Kingdom,2023-06-25,Organic Search
+417,James,Davis,customer417@example.com,United States,2023-11-12,Direct
+418,Michael,Smith,customer418@example.com,United States,2024-08-15,Direct
+419,Olivia,Jones,customer419@example.com,Germany,2023-11-14,Direct
+420,Linda,Jones,customer420@example.com,France,2024-07-21,Social
+421,Sofia,Khan,customer421@example.com,India,2023-10-16,Email
+422,Patricia,Kim,customer422@example.com,United States,2023-06-17,Organic Search
+423,Michael,Rossi,customer423@example.com,United States,2024-11-11,Organic Search
+424,Yuki,Rodriguez,customer424@example.com,France,2024-11-23,Social
+425,Omar,Shah,customer425@example.com,United States,2024-02-26,Direct
+426,Jennifer,Silva,customer426@example.com,India,2024-07-10,Organic Search
+427,Olivia,Ali,customer427@example.com,United States,2024-06-18,Direct
+428,Yuki,Brown,customer428@example.com,Canada,2024-03-12,Organic Search
+429,Omar,Garcia,customer429@example.com,United Kingdom,2023-12-22,Email
+430,Elizabeth,Brown,customer430@example.com,United States,2024-06-07,Paid Search
+431,Liam,Smith,customer431@example.com,United States,2023-02-15,Social
+432,Elizabeth,Kim,customer432@example.com,United States,2023-12-26,Social
+433,Ana,Chen,customer433@example.com,Canada,2023-12-31,Organic Search
+434,Wei,Tanaka,customer434@example.com,United States,2024-02-18,Paid Search
+435,Michael,Williams,customer435@example.com,Germany,2024-02-16,Referral
+436,Liam,Tanaka,customer436@example.com,Netherlands,2023-10-05,Email
+437,Carlos,Davis,customer437@example.com,Spain,2023-08-30,Organic Search
+438,Patricia,Tanaka,customer438@example.com,United States,2024-06-07,Social
+439,Omar,Martinez,customer439@example.com,Germany,2023-01-22,Organic Search
+440,Ana,Silva,customer440@example.com,Brazil,2023-11-02,Email
+441,Fatima,Brown,customer441@example.com,Germany,2024-11-06,Social
+442,Fatima,Kim,customer442@example.com,United States,2024-04-04,Organic Search
+443,Fatima,Johnson,customer443@example.com,United States,2024-10-07,Direct
+444,Priya,Nguyen,customer444@example.com,France,2024-04-03,Paid Search
+445,Mei,Khan,customer445@example.com,United Kingdom,2024-03-05,Referral
+446,Priya,Williams,customer446@example.com,United Kingdom,2023-04-09,Organic Search
+447,Noah,Santos,customer447@example.com,United States,2023-06-06,Direct
+448,Aarav,Smith,customer448@example.com,France,2024-11-17,Social
+449,Mei,Dubois,customer449@example.com,India,2024-06-22,Referral
+450,Patricia,Wang,customer450@example.com,United States,2024-03-15,Referral
+451,Priya,Santos,customer451@example.com,United States,2023-03-25,Organic Search
+452,Luca,Tanaka,customer452@example.com,United States,2024-01-22,Paid Search
+453,Robert,Wang,customer453@example.com,Canada,2024-06-10,Organic Search
+454,Jennifer,Ali,customer454@example.com,United Kingdom,2024-06-07,Paid Search
+455,Noah,Santos,customer455@example.com,Spain,2024-06-22,Organic Search
+456,David,Silva,customer456@example.com,United States,2024-10-18,Organic Search
+457,Fatima,Nguyen,customer457@example.com,Australia,2023-01-27,Email
+458,Omar,Dubois,customer458@example.com,Canada,2024-01-22,Paid Search
+459,Luca,Wang,customer459@example.com,Netherlands,2024-06-19,Social
+460,Hana,Kim,customer460@example.com,United Kingdom,2024-07-11,Organic Search
+461,David,Patel,customer461@example.com,United States,2024-03-30,Email
+462,Linda,Williams,customer462@example.com,United States,2024-06-04,Social
+463,David,Rossi,customer463@example.com,United States,2024-05-15,Email
+464,Linda,Lopez,customer464@example.com,Brazil,2024-01-30,Organic Search
+465,Luca,Kim,customer465@example.com,France,2023-10-01,Paid Search
+466,Olivia,Khan,customer466@example.com,Germany,2024-05-09,Paid Search
+467,Wei,Patel,customer467@example.com,Canada,2023-10-28,Referral
+468,James,Dubois,customer468@example.com,United States,2024-02-29,Social
+469,Aarav,Garcia,customer469@example.com,United States,2023-03-29,Organic Search
+470,Sofia,Miller,customer470@example.com,United States,2023-02-15,Social
+471,Priya,Rodriguez,customer471@example.com,United States,2023-03-27,Paid Search
+472,Aarav,Rodriguez,customer472@example.com,United States,2023-08-30,Social
+473,Olivia,Tanaka,customer473@example.com,United States,2024-08-11,Paid Search
+474,David,Nguyen,customer474@example.com,Brazil,2023-07-13,Organic Search
+475,James,Mueller,customer475@example.com,Australia,2023-05-02,Organic Search
+476,Michael,Williams,customer476@example.com,United States,2024-03-03,Social
+477,Linda,Ali,customer477@example.com,United States,2024-09-26,Referral
+478,Mei,Dubois,customer478@example.com,Germany,2023-12-25,Paid Search
+479,Emma,Lopez,customer479@example.com,Spain,2023-09-21,Social
+480,Linda,Tanaka,customer480@example.com,United States,2023-03-25,Direct
+481,Sofia,Santos,customer481@example.com,France,2023-01-07,Social
+482,Yuki,Dubois,customer482@example.com,Australia,2024-01-25,Paid Search
+483,Luca,Smith,customer483@example.com,United States,2024-05-29,Organic Search
+484,John,Martinez,customer484@example.com,United States,2023-01-14,Organic Search
+485,Linda,Chen,customer485@example.com,Germany,2023-03-28,Paid Search
+486,Yuki,Davis,customer486@example.com,United States,2023-08-31,Referral
+487,Elizabeth,Khan,customer487@example.com,Canada,2023-12-22,Direct
+488,Liam,Shah,customer488@example.com,Germany,2023-11-05,Social
+489,Sofia,Nguyen,customer489@example.com,United States,2024-08-16,Social
+490,Noah,Shah,customer490@example.com,Brazil,2024-07-02,Referral
+491,Mei,Ali,customer491@example.com,United States,2024-10-04,Paid Search
+492,Emma,Patel,customer492@example.com,United States,2024-03-20,Organic Search
+493,Priya,Tanaka,customer493@example.com,Australia,2023-12-19,Organic Search
+494,Luca,Rodriguez,customer494@example.com,United States,2023-06-08,Direct
+495,Elizabeth,Rodriguez,customer495@example.com,Canada,2024-05-30,Email
+496,Linda,Brown,customer496@example.com,United Kingdom,2023-06-01,Social
+497,Hana,Miller,customer497@example.com,United States,2024-09-08,Email
+498,Aarav,Brown,customer498@example.com,Germany,2024-05-26,Social
+499,Hana,Nguyen,customer499@example.com,United States,2023-10-22,Social
+500,Omar,Tanaka,customer500@example.com,United States,2023-09-03,Paid Search
+501,Jennifer,Miller,customer501@example.com,Germany,2024-06-13,Email
+502,Michael,Ali,customer502@example.com,United States,2024-06-03,Social
+503,Sofia,Rodriguez,customer503@example.com,United States,2023-10-25,Referral
+504,Hana,Kim,customer504@example.com,United States,2024-01-10,Organic Search
+505,Omar,Mueller,customer505@example.com,United States,2024-07-06,Direct
+506,Olivia,Martinez,customer506@example.com,Germany,2024-09-14,Social
+507,Patricia,Miller,customer507@example.com,Germany,2023-03-25,Organic Search
+508,Elizabeth,Davis,customer508@example.com,United States,2023-01-28,Social
+509,Priya,Garcia,customer509@example.com,Canada,2024-03-24,Organic Search
+510,Elizabeth,Smith,customer510@example.com,United States,2023-10-28,Organic Search
+511,Yuki,Nguyen,customer511@example.com,United States,2023-01-10,Organic Search
+512,Robert,Rodriguez,customer512@example.com,United States,2024-08-27,Direct
+513,Mary,Johnson,customer513@example.com,United States,2023-09-14,Social
+514,Emma,Martinez,customer514@example.com,United States,2024-05-27,Paid Search
+515,Yuki,Jones,customer515@example.com,United States,2023-10-11,Email
+516,Carlos,Lopez,customer516@example.com,United Kingdom,2023-07-23,Direct
+517,Sofia,Brown,customer517@example.com,United States,2024-07-09,Direct
+518,James,Kim,customer518@example.com,United Kingdom,2024-09-11,Organic Search
+519,Elizabeth,Dubois,customer519@example.com,United States,2023-11-30,Social
+520,Sofia,Rossi,customer520@example.com,United States,2023-01-20,Social
+521,Aarav,Garcia,customer521@example.com,United Kingdom,2023-02-04,Referral
+522,Mary,Rodriguez,customer522@example.com,United Kingdom,2023-06-10,Organic Search
+523,Sofia,Brown,customer523@example.com,United States,2024-05-04,Paid Search
+524,John,Chen,customer524@example.com,United States,2023-09-08,Referral
+525,Sofia,Williams,customer525@example.com,Brazil,2023-11-02,Social
+526,Liam,Santos,customer526@example.com,United Kingdom,2023-07-03,Social
+527,Ana,Johnson,customer527@example.com,United Kingdom,2024-03-03,Organic Search
+528,Robert,Jones,customer528@example.com,United States,2024-09-29,Email
+529,Fatima,Kim,customer529@example.com,United States,2024-01-10,Organic Search
+530,Elizabeth,Williams,customer530@example.com,United States,2024-10-30,Direct
+531,Linda,Brown,customer531@example.com,United States,2023-03-27,Email
+532,Emma,Lopez,customer532@example.com,Spain,2023-04-29,Email
+533,Mei,Silva,customer533@example.com,United States,2023-04-24,Direct
+534,Olivia,Silva,customer534@example.com,Germany,2023-10-30,Organic Search
+535,Linda,Lopez,customer535@example.com,France,2023-12-11,Email
+536,Noah,Chen,customer536@example.com,Spain,2023-05-27,Direct
+537,Luca,Rossi,customer537@example.com,Germany,2023-10-31,Organic Search
+538,Elizabeth,Kim,customer538@example.com,United States,2023-08-08,Social
+539,Mei,Martinez,customer539@example.com,Brazil,2024-07-28,Paid Search
+540,Liam,Silva,customer540@example.com,Canada,2024-11-18,Organic Search
+541,Mary,Silva,customer541@example.com,Canada,2023-06-08,Direct
+542,Hana,Brown,customer542@example.com,Canada,2024-01-16,Referral
+543,Omar,Miller,customer543@example.com,Australia,2023-01-19,Email
+544,Carlos,Miller,customer544@example.com,United States,2023-10-06,Direct
+545,David,Khan,customer545@example.com,United States,2023-12-10,Social
+546,John,Garcia,customer546@example.com,Germany,2024-10-16,Social
+547,Linda,Garcia,customer547@example.com,France,2023-05-23,Paid Search
+548,Emma,Williams,customer548@example.com,Germany,2024-04-17,Social
+549,Jennifer,Smith,customer549@example.com,United States,2023-10-18,Organic Search
+550,Mei,Rossi,customer550@example.com,Germany,2024-09-13,Email
+551,Yuki,Silva,customer551@example.com,United Kingdom,2023-01-03,Referral
+552,Sofia,Martinez,customer552@example.com,United Kingdom,2024-03-25,Organic Search
+553,Mary,Davis,customer553@example.com,United States,2023-06-03,Organic Search
+554,Elizabeth,Tanaka,customer554@example.com,Germany,2023-10-31,Social
+555,Elizabeth,Tanaka,customer555@example.com,Canada,2023-02-12,Direct
+556,Luca,Williams,customer556@example.com,France,2024-05-12,Social
+557,Ana,Davis,customer557@example.com,United States,2023-01-21,Organic Search
+558,David,Santos,customer558@example.com,India,2023-04-27,Organic Search
+559,Liam,Khan,customer559@example.com,United States,2023-02-20,Referral
+560,Fatima,Miller,customer560@example.com,United States,2024-04-14,Organic Search
+561,Mei,Brown,customer561@example.com,United States,2024-01-08,Paid Search
+562,Emma,Davis,customer562@example.com,United Kingdom,2023-06-05,Paid Search
+563,Carlos,Jones,customer563@example.com,France,2024-02-24,Paid Search
+564,David,Jones,customer564@example.com,United States,2024-08-11,Organic Search
+565,John,Johnson,customer565@example.com,United States,2024-04-03,Direct
+566,Jennifer,Martinez,customer566@example.com,United Kingdom,2023-02-08,Email
+567,Olivia,Ali,customer567@example.com,Canada,2023-11-08,Organic Search
+568,Liam,Martinez,customer568@example.com,United States,2023-02-05,Organic Search
+569,Luca,Brown,customer569@example.com,United States,2024-01-20,Social
+570,Luca,Tanaka,customer570@example.com,Spain,2024-07-12,Social
+571,Elizabeth,Tanaka,customer571@example.com,United Kingdom,2023-04-28,Social
+572,Wei,Rodriguez,customer572@example.com,United States,2023-01-26,Social
+573,Noah,Nguyen,customer573@example.com,United States,2024-01-13,Direct
+574,Sofia,Rossi,customer574@example.com,United States,2023-06-01,Organic Search
+575,John,Silva,customer575@example.com,United States,2023-10-20,Email
+576,Mary,Wang,customer576@example.com,United States,2024-09-03,Email
+577,Hana,Patel,customer577@example.com,Canada,2023-05-26,Organic Search
+578,Olivia,Rodriguez,customer578@example.com,Germany,2024-03-14,Organic Search
+579,James,Williams,customer579@example.com,India,2024-04-27,Paid Search
+580,Linda,Khan,customer580@example.com,United States,2024-10-22,Organic Search
+581,Liam,Kim,customer581@example.com,United States,2024-10-16,Organic Search
+582,James,Lopez,customer582@example.com,United States,2024-06-06,Paid Search
+583,Ana,Rodriguez,customer583@example.com,United States,2024-05-23,Organic Search
+584,Liam,Johnson,customer584@example.com,United States,2023-11-16,Email
+585,Omar,Lopez,customer585@example.com,United States,2024-07-07,Email
+586,Jennifer,Dubois,customer586@example.com,Brazil,2024-04-03,Organic Search
+587,Noah,Santos,customer587@example.com,Germany,2024-06-14,Paid Search
+588,Luca,Rodriguez,customer588@example.com,United States,2023-10-15,Organic Search
+589,Jennifer,Kim,customer589@example.com,Germany,2023-12-19,Paid Search
+590,Mei,Santos,customer590@example.com,United States,2023-12-19,Paid Search
+591,Sofia,Williams,customer591@example.com,Australia,2024-07-14,Email
+592,Sofia,Shah,customer592@example.com,United States,2024-03-03,Social
+593,Mei,Patel,customer593@example.com,Germany,2023-08-18,Email
+594,Aarav,Khan,customer594@example.com,United Kingdom,2024-01-16,Organic Search
+595,Patricia,Garcia,customer595@example.com,Brazil,2023-05-10,Email
+596,Aarav,Wang,customer596@example.com,Brazil,2023-07-28,Paid Search
+597,Yuki,Dubois,customer597@example.com,United States,2023-04-26,Social
+598,Elizabeth,Khan,customer598@example.com,Spain,2024-07-01,Social
+599,Wei,Lopez,customer599@example.com,United States,2023-10-30,Social
+600,Emma,Johnson,customer600@example.com,United States,2024-03-21,Direct
+601,Luca,Williams,customer601@example.com,United States,2023-01-12,Email
+602,Aarav,Rodriguez,customer602@example.com,Netherlands,2024-05-29,Organic Search
+603,Aarav,Brown,customer603@example.com,Brazil,2023-12-14,Organic Search
+604,Omar,Chen,customer604@example.com,United Kingdom,2023-09-05,Direct
+605,Noah,Smith,customer605@example.com,United States,2023-05-29,Organic Search
+606,Ana,Nguyen,customer606@example.com,Canada,2024-03-31,Organic Search
+607,Luca,Wang,customer607@example.com,Canada,2024-04-04,Email
+608,Mary,Miller,customer608@example.com,United States,2024-10-15,Organic Search
+609,Noah,Shah,customer609@example.com,United States,2024-07-31,Paid Search
+610,Olivia,Lopez,customer610@example.com,United States,2024-03-24,Paid Search
+611,Sofia,Santos,customer611@example.com,Spain,2024-02-11,Direct
+612,Luca,Lopez,customer612@example.com,Netherlands,2023-09-19,Social
+613,Mary,Miller,customer613@example.com,United Kingdom,2023-12-08,Paid Search
+614,David,Nguyen,customer614@example.com,Netherlands,2023-01-12,Organic Search
+615,Robert,Martinez,customer615@example.com,Germany,2024-08-16,Email
+616,Luca,Tanaka,customer616@example.com,France,2024-10-31,Organic Search
+617,Sofia,Brown,customer617@example.com,United States,2023-01-07,Organic Search
+618,James,Santos,customer618@example.com,United States,2024-02-09,Organic Search
+619,Olivia,Davis,customer619@example.com,Spain,2024-04-10,Social
+620,Yuki,Garcia,customer620@example.com,Australia,2023-09-23,Organic Search
+621,Elizabeth,Nguyen,customer621@example.com,Netherlands,2023-10-16,Social
+622,James,Nguyen,customer622@example.com,India,2023-04-20,Direct
+623,Mei,Williams,customer623@example.com,United Kingdom,2024-03-11,Paid Search
+624,Linda,Brown,customer624@example.com,France,2023-01-25,Organic Search
+625,Luca,Brown,customer625@example.com,United States,2024-06-20,Organic Search
+626,Carlos,Jones,customer626@example.com,Spain,2023-01-12,Paid Search
+627,Sofia,Tanaka,customer627@example.com,Netherlands,2024-10-14,Direct
+628,Elizabeth,Mueller,customer628@example.com,Germany,2024-03-22,Organic Search
+629,Yuki,Rodriguez,customer629@example.com,Germany,2023-09-11,Paid Search
+630,Mei,Dubois,customer630@example.com,United States,2023-10-14,Email
+631,Sofia,Davis,customer631@example.com,United States,2023-12-11,Referral
+632,Luca,Nguyen,customer632@example.com,Germany,2023-09-10,Paid Search
+633,Robert,Chen,customer633@example.com,United States,2023-03-24,Organic Search
+634,Michael,Silva,customer634@example.com,United States,2023-06-05,Organic Search
+635,Noah,Ali,customer635@example.com,France,2023-03-21,Social
+636,Robert,Williams,customer636@example.com,United States,2024-09-06,Organic Search
+637,David,Lopez,customer637@example.com,United States,2024-01-15,Social
+638,Fatima,Wang,customer638@example.com,Australia,2023-05-04,Email
+639,Aarav,Mueller,customer639@example.com,India,2024-04-29,Paid Search
+640,David,Smith,customer640@example.com,United States,2024-04-27,Paid Search
+641,Elizabeth,Ali,customer641@example.com,United States,2024-06-09,Paid Search
+642,Elizabeth,Kim,customer642@example.com,United States,2024-10-06,Paid Search
+643,Liam,Khan,customer643@example.com,United States,2024-02-09,Organic Search
+644,Sofia,Jones,customer644@example.com,France,2024-10-11,Organic Search
+645,Luca,Nguyen,customer645@example.com,United States,2023-03-06,Direct
+646,Sofia,Shah,customer646@example.com,Brazil,2024-05-07,Direct
+647,Aarav,Nguyen,customer647@example.com,United States,2023-06-22,Paid Search
+648,Omar,Nguyen,customer648@example.com,United Kingdom,2024-05-11,Paid Search
+649,Wei,Rossi,customer649@example.com,United States,2023-11-04,Organic Search
+650,Aarav,Miller,customer650@example.com,United States,2024-05-24,Paid Search
+651,Yuki,Davis,customer651@example.com,United Kingdom,2024-08-16,Paid Search
+652,Liam,Chen,customer652@example.com,India,2024-03-11,Paid Search
+653,Linda,Lopez,customer653@example.com,India,2024-07-07,Referral
+654,Mei,Johnson,customer654@example.com,Germany,2023-01-17,Referral
+655,Aarav,Ali,customer655@example.com,United States,2023-05-10,Organic Search
+656,Sofia,Tanaka,customer656@example.com,Netherlands,2023-01-10,Organic Search
+657,Fatima,Chen,customer657@example.com,United Kingdom,2023-08-20,Social
+658,Wei,Khan,customer658@example.com,United States,2023-07-19,Direct
+659,Fatima,Santos,customer659@example.com,United States,2023-06-22,Email
+660,Robert,Dubois,customer660@example.com,United States,2024-03-24,Organic Search
+661,Mary,Jones,customer661@example.com,United States,2023-07-19,Email
+662,Noah,Kim,customer662@example.com,Australia,2024-09-12,Organic Search
+663,Aarav,Brown,customer663@example.com,Spain,2023-01-17,Email
+664,Luca,Brown,customer664@example.com,Brazil,2024-01-01,Referral
+665,Noah,Rossi,customer665@example.com,France,2023-07-30,Organic Search
+666,James,Ali,customer666@example.com,United States,2024-05-05,Social
+667,Robert,Wang,customer667@example.com,United States,2023-12-18,Paid Search
+668,Carlos,Jones,customer668@example.com,United States,2024-09-14,Referral
+669,John,Dubois,customer669@example.com,Canada,2023-08-11,Organic Search
+670,Fatima,Rodriguez,customer670@example.com,United States,2023-11-25,Organic Search
+671,Aarav,Silva,customer671@example.com,United States,2024-07-14,Organic Search
+672,Yuki,Chen,customer672@example.com,Germany,2024-09-08,Social
+673,Carlos,Williams,customer673@example.com,India,2023-07-09,Paid Search
+674,Aarav,Khan,customer674@example.com,United States,2024-11-06,Referral
+675,Emma,Chen,customer675@example.com,United Kingdom,2024-01-09,Referral
+676,Aarav,Santos,customer676@example.com,Germany,2023-10-15,Organic Search
+677,Yuki,Lopez,customer677@example.com,United States,2024-06-05,Referral
+678,Sofia,Nguyen,customer678@example.com,United States,2023-07-02,Paid Search
+679,Mary,Silva,customer679@example.com,United States,2023-05-04,Organic Search
+680,John,Davis,customer680@example.com,Netherlands,2024-02-18,Email
+681,Carlos,Khan,customer681@example.com,India,2024-03-10,Social
+682,Elizabeth,Davis,customer682@example.com,Australia,2023-05-02,Direct
+683,Hana,Williams,customer683@example.com,United States,2024-05-11,Social
+684,Mei,Brown,customer684@example.com,Canada,2023-05-29,Paid Search
+685,Omar,Santos,customer685@example.com,France,2023-10-29,Email
+686,Yuki,Brown,customer686@example.com,United States,2023-08-24,Paid Search
+687,Luca,Garcia,customer687@example.com,Brazil,2024-10-23,Referral
+688,Yuki,Martinez,customer688@example.com,United States,2024-04-10,Email
+689,James,Johnson,customer689@example.com,Australia,2024-03-11,Organic Search
+690,Aarav,Johnson,customer690@example.com,Australia,2024-02-11,Email
+691,Elizabeth,Shah,customer691@example.com,Canada,2024-11-13,Email
+692,Priya,Wang,customer692@example.com,United States,2024-05-29,Social
+693,Robert,Davis,customer693@example.com,United States,2024-02-17,Social
+694,Noah,Wang,customer694@example.com,Canada,2023-10-08,Organic Search
+695,Liam,Khan,customer695@example.com,United Kingdom,2023-12-28,Direct
+696,Fatima,Garcia,customer696@example.com,India,2023-09-18,Organic Search
+697,Jennifer,Garcia,customer697@example.com,United States,2024-04-27,Direct
+698,John,Silva,customer698@example.com,United States,2024-05-05,Email
+699,Wei,Silva,customer699@example.com,Germany,2023-10-29,Organic Search
+700,Ana,Davis,customer700@example.com,Canada,2023-04-22,Social
+701,Sofia,Kim,customer701@example.com,Australia,2024-08-20,Direct
+702,Robert,Davis,customer702@example.com,Canada,2023-01-12,Organic Search
+703,Luca,Santos,customer703@example.com,Canada,2024-02-22,Email
+704,David,Rossi,customer704@example.com,India,2023-03-11,Referral
+705,David,Khan,customer705@example.com,United States,2023-05-12,Social
+706,James,Rossi,customer706@example.com,United States,2024-06-19,Organic Search
+707,Elizabeth,Khan,customer707@example.com,United States,2024-04-13,Organic Search
+708,Emma,Garcia,customer708@example.com,Germany,2023-07-21,Paid Search
+709,John,Rossi,customer709@example.com,United States,2023-02-26,Paid Search
+710,Priya,Kim,customer710@example.com,United Kingdom,2024-08-05,Social
+711,Elizabeth,Santos,customer711@example.com,United States,2023-12-02,Email
+712,Mei,Tanaka,customer712@example.com,France,2024-06-19,Direct
+713,David,Rossi,customer713@example.com,United States,2023-06-08,Paid Search
+714,Elizabeth,Miller,customer714@example.com,United States,2023-11-15,Organic Search
+715,Wei,Dubois,customer715@example.com,Canada,2023-04-19,Referral
+716,Patricia,Davis,customer716@example.com,Canada,2023-04-27,Social
+717,Wei,Kim,customer717@example.com,United States,2024-03-07,Organic Search
+718,Priya,Kim,customer718@example.com,United States,2023-04-23,Organic Search
+719,Elizabeth,Tanaka,customer719@example.com,United States,2024-09-19,Direct
+720,Elizabeth,Smith,customer720@example.com,Brazil,2023-10-30,Referral
+721,Ana,Chen,customer721@example.com,United States,2023-06-10,Social
+722,David,Smith,customer722@example.com,United States,2023-02-16,Paid Search
+723,Liam,Khan,customer723@example.com,Canada,2023-03-19,Email
+724,Omar,Ali,customer724@example.com,Germany,2024-08-24,Organic Search
+725,Mary,Silva,customer725@example.com,Brazil,2024-07-26,Organic Search
+726,Hana,Dubois,customer726@example.com,United States,2024-09-10,Direct
+727,Elizabeth,Lopez,customer727@example.com,Spain,2024-07-16,Organic Search
+728,Fatima,Davis,customer728@example.com,United States,2023-10-29,Paid Search
+729,Olivia,Shah,customer729@example.com,United States,2023-02-18,Referral
+730,Linda,Santos,customer730@example.com,United States,2023-12-22,Organic Search
+731,Michael,Silva,customer731@example.com,United Kingdom,2023-10-22,Paid Search
+732,David,Khan,customer732@example.com,United States,2023-11-09,Organic Search
+733,Omar,Ali,customer733@example.com,Germany,2024-11-16,Organic Search
+734,Omar,Khan,customer734@example.com,Netherlands,2024-06-26,Paid Search
+735,Ana,Jones,customer735@example.com,United States,2024-02-12,Paid Search
+736,Carlos,Brown,customer736@example.com,United States,2023-08-08,Organic Search
+737,Carlos,Santos,customer737@example.com,United States,2023-09-27,Organic Search
+738,Mary,Martinez,customer738@example.com,United States,2023-07-01,Direct
+739,Fatima,Rossi,customer739@example.com,United States,2024-08-04,Social
+740,Mary,Kim,customer740@example.com,United States,2024-11-26,Social
+741,Priya,Ali,customer741@example.com,United States,2024-03-16,Paid Search
+742,Robert,Williams,customer742@example.com,United States,2024-06-02,Organic Search
+743,Elizabeth,Patel,customer743@example.com,France,2024-11-02,Referral
+744,Hana,Wang,customer744@example.com,India,2024-10-16,Paid Search
+745,Jennifer,Miller,customer745@example.com,United States,2024-10-27,Organic Search
+746,Robert,Nguyen,customer746@example.com,United Kingdom,2023-11-09,Referral
+747,Priya,Mueller,customer747@example.com,Germany,2024-08-03,Organic Search
+748,Noah,Rodriguez,customer748@example.com,United Kingdom,2023-11-01,Referral
+749,Jennifer,Rodriguez,customer749@example.com,Spain,2024-01-19,Organic Search
+750,Sofia,Martinez,customer750@example.com,United States,2023-06-10,Organic Search
+751,Hana,Patel,customer751@example.com,United States,2024-05-04,Email
+752,Fatima,Brown,customer752@example.com,United Kingdom,2023-10-16,Organic Search
+753,Luca,Williams,customer753@example.com,United States,2023-12-20,Social
+754,Robert,Lopez,customer754@example.com,France,2024-02-27,Social
+755,Linda,Khan,customer755@example.com,United Kingdom,2024-05-08,Social
+756,Hana,Khan,customer756@example.com,Spain,2024-05-31,Direct
+757,Wei,Nguyen,customer757@example.com,United States,2023-03-07,Direct
+758,Priya,Williams,customer758@example.com,Germany,2024-03-10,Social
+759,Fatima,Chen,customer759@example.com,Canada,2023-12-10,Organic Search
+760,James,Rodriguez,customer760@example.com,United Kingdom,2024-07-24,Organic Search
+761,Emma,Brown,customer761@example.com,United States,2024-07-14,Organic Search
+762,Luca,Shah,customer762@example.com,United Kingdom,2024-06-15,Email
+763,Ana,Ali,customer763@example.com,United States,2023-08-02,Organic Search
+764,Ana,Rodriguez,customer764@example.com,India,2023-03-20,Direct
+765,Liam,Chen,customer765@example.com,United Kingdom,2024-01-16,Referral
+766,Carlos,Shah,customer766@example.com,United Kingdom,2023-01-26,Social
+767,Patricia,Khan,customer767@example.com,United States,2023-09-11,Paid Search
+768,Linda,Dubois,customer768@example.com,United Kingdom,2024-07-07,Organic Search
+769,James,Silva,customer769@example.com,United Kingdom,2024-03-11,Paid Search
+770,Emma,Patel,customer770@example.com,Canada,2024-03-02,Referral
+771,Olivia,Davis,customer771@example.com,United States,2024-05-18,Organic Search
+772,Carlos,Williams,customer772@example.com,Canada,2024-05-22,Social
+773,Carlos,Rossi,customer773@example.com,United States,2024-08-19,Social
+774,Yuki,Martinez,customer774@example.com,United Kingdom,2023-08-26,Organic Search
+775,Carlos,Wang,customer775@example.com,United Kingdom,2024-04-12,Organic Search
+776,Patricia,Jones,customer776@example.com,United States,2024-01-22,Direct
+777,Mary,Johnson,customer777@example.com,United Kingdom,2023-02-09,Social
+778,Elizabeth,Dubois,customer778@example.com,India,2024-06-03,Social
+779,Patricia,Brown,customer779@example.com,United States,2024-09-10,Email
+780,Linda,Nguyen,customer780@example.com,United States,2024-01-01,Direct
+781,Robert,Chen,customer781@example.com,Canada,2024-06-07,Paid Search
+782,Luca,Shah,customer782@example.com,United States,2023-05-09,Referral
+783,Ana,Ali,customer783@example.com,France,2024-06-16,Paid Search
+784,Yuki,Nguyen,customer784@example.com,Brazil,2023-04-12,Social
+785,Mei,Kim,customer785@example.com,United States,2024-10-01,Social
+786,Hana,Ali,customer786@example.com,United States,2023-12-19,Direct
+787,Robert,Wang,customer787@example.com,United States,2024-10-27,Email
+788,Carlos,Brown,customer788@example.com,United States,2024-12-01,Paid Search
+789,Sofia,Silva,customer789@example.com,United Kingdom,2024-04-30,Email
+790,Mei,Rodriguez,customer790@example.com,United Kingdom,2024-01-12,Direct
+791,Mary,Tanaka,customer791@example.com,United States,2024-04-01,Social
+792,Priya,Miller,customer792@example.com,India,2023-05-11,Social
+793,Luca,Rossi,customer793@example.com,United States,2023-10-04,Organic Search
+794,Linda,Shah,customer794@example.com,United States,2024-02-21,Organic Search
+795,Patricia,Khan,customer795@example.com,Canada,2023-02-10,Organic Search
+796,Priya,Nguyen,customer796@example.com,Germany,2023-03-16,Social
+797,Carlos,Shah,customer797@example.com,Canada,2024-10-23,Direct
+798,Mary,Chen,customer798@example.com,United States,2023-10-16,Email
+799,David,Miller,customer799@example.com,United States,2023-03-07,Organic Search
+800,Patricia,Rossi,customer800@example.com,United States,2023-02-16,Direct
+801,John,Khan,customer801@example.com,Brazil,2023-05-04,Organic Search
+802,Michael,Santos,customer802@example.com,Germany,2024-10-01,Email
+803,Carlos,Silva,customer803@example.com,United States,2023-05-23,Organic Search
+804,James,Johnson,customer804@example.com,United States,2024-09-20,Email
+805,Fatima,Patel,customer805@example.com,United States,2024-04-04,Direct
+806,Linda,Jones,customer806@example.com,United States,2023-07-26,Direct
+807,Fatima,Kim,customer807@example.com,United States,2023-09-08,Organic Search
+808,Michael,Williams,customer808@example.com,United States,2023-12-20,Paid Search
+809,Omar,Nguyen,customer809@example.com,United States,2024-09-03,Organic Search
+810,Michael,Kim,customer810@example.com,Brazil,2024-10-20,Organic Search
+811,Michael,Davis,customer811@example.com,United States,2024-08-18,Paid Search
+812,Aarav,Lopez,customer812@example.com,Netherlands,2023-09-27,Paid Search
+813,Robert,Silva,customer813@example.com,Brazil,2023-03-24,Direct
+814,James,Rodriguez,customer814@example.com,Australia,2023-10-02,Organic Search
+815,Robert,Jones,customer815@example.com,Germany,2023-11-23,Social
+816,Emma,Rodriguez,customer816@example.com,Australia,2024-09-27,Paid Search
+817,Fatima,Garcia,customer817@example.com,United States,2024-02-02,Organic Search
+818,Patricia,Khan,customer818@example.com,United States,2024-11-06,Organic Search
+819,James,Jones,customer819@example.com,United Kingdom,2023-11-16,Paid Search
+820,James,Shah,customer820@example.com,Germany,2024-10-15,Paid Search
+821,Fatima,Davis,customer821@example.com,Canada,2023-11-30,Organic Search
+822,Liam,Patel,customer822@example.com,India,2023-03-09,Direct
+823,James,Garcia,customer823@example.com,Germany,2024-09-28,Direct
+824,David,Johnson,customer824@example.com,Germany,2023-05-07,Social
+825,Robert,Ali,customer825@example.com,Canada,2023-03-03,Organic Search
+826,Mei,Mueller,customer826@example.com,United States,2023-02-04,Email
+827,Patricia,Ali,customer827@example.com,United Kingdom,2024-04-13,Organic Search
+828,John,Dubois,customer828@example.com,United States,2023-10-03,Social
+829,Luca,Lopez,customer829@example.com,Netherlands,2023-07-20,Email
+830,Priya,Mueller,customer830@example.com,India,2024-04-26,Social
+831,Liam,Brown,customer831@example.com,France,2023-10-28,Organic Search
+832,Luca,Mueller,customer832@example.com,United States,2024-03-13,Email
+833,Linda,Silva,customer833@example.com,India,2024-10-20,Paid Search
+834,Mary,Ali,customer834@example.com,Spain,2023-08-20,Paid Search
+835,Fatima,Khan,customer835@example.com,France,2024-05-19,Organic Search
+836,Noah,Martinez,customer836@example.com,United States,2024-03-30,Organic Search
+837,Luca,Santos,customer837@example.com,United Kingdom,2023-03-17,Social
+838,James,Johnson,customer838@example.com,United States,2023-07-13,Paid Search
+839,Sofia,Chen,customer839@example.com,United Kingdom,2023-12-27,Social
+840,Mei,Khan,customer840@example.com,India,2023-09-19,Organic Search
+841,Patricia,Dubois,customer841@example.com,United Kingdom,2024-07-26,Organic Search
+842,Yuki,Rossi,customer842@example.com,United States,2024-10-09,Paid Search
+843,John,Williams,customer843@example.com,United States,2024-03-16,Social
+844,Aarav,Silva,customer844@example.com,United Kingdom,2024-02-28,Paid Search
+845,Robert,Williams,customer845@example.com,United Kingdom,2024-11-19,Organic Search
+846,Robert,Rodriguez,customer846@example.com,United States,2023-10-29,Direct
+847,Olivia,Santos,customer847@example.com,United States,2024-02-08,Paid Search
+848,Liam,Nguyen,customer848@example.com,United States,2023-12-07,Organic Search
+849,Yuki,Patel,customer849@example.com,United States,2024-09-09,Referral
+850,Wei,Silva,customer850@example.com,United States,2023-12-10,Social
+851,Noah,Martinez,customer851@example.com,United Kingdom,2024-07-24,Direct
+852,Luca,Mueller,customer852@example.com,France,2024-02-01,Organic Search
+853,Olivia,Wang,customer853@example.com,Netherlands,2023-11-29,Organic Search
+854,Patricia,Tanaka,customer854@example.com,United States,2023-06-17,Paid Search
+855,Patricia,Santos,customer855@example.com,France,2024-03-31,Organic Search
+856,Carlos,Lopez,customer856@example.com,United States,2024-03-20,Direct
+857,Emma,Ali,customer857@example.com,Spain,2023-04-13,Email
+858,Michael,Wang,customer858@example.com,Germany,2023-06-02,Organic Search
+859,Luca,Davis,customer859@example.com,United States,2024-03-06,Social
+860,Mei,Patel,customer860@example.com,United States,2024-10-19,Paid Search
+861,Luca,Chen,customer861@example.com,France,2024-09-30,Organic Search
+862,Mei,Ali,customer862@example.com,United Kingdom,2024-02-16,Direct
+863,Patricia,Patel,customer863@example.com,United States,2023-11-28,Paid Search
+864,Mei,Patel,customer864@example.com,Germany,2023-04-15,Direct
+865,Ana,Rodriguez,customer865@example.com,United Kingdom,2023-09-23,Organic Search
+866,Priya,Jones,customer866@example.com,United States,2024-01-12,Organic Search
+867,Ana,Dubois,customer867@example.com,United States,2024-03-29,Direct
+868,John,Williams,customer868@example.com,Australia,2024-11-08,Referral
+869,John,Williams,customer869@example.com,United States,2023-09-15,Paid Search
+870,Mei,Brown,customer870@example.com,United States,2024-02-23,Organic Search
+871,Hana,Ali,customer871@example.com,United States,2023-12-23,Social
+872,Priya,Jones,customer872@example.com,United Kingdom,2023-08-11,Direct
+873,Emma,Johnson,customer873@example.com,Australia,2023-10-21,Email
+874,Liam,Nguyen,customer874@example.com,United States,2024-10-19,Organic Search
+875,Emma,Patel,customer875@example.com,United States,2023-03-14,Email
+876,Ana,Brown,customer876@example.com,United States,2023-07-07,Paid Search
+877,Mei,Shah,customer877@example.com,India,2023-07-14,Direct
+878,Ana,Lopez,customer878@example.com,United States,2023-03-04,Direct
+879,Mei,Ali,customer879@example.com,United States,2024-11-02,Social
+880,Mary,Martinez,customer880@example.com,United States,2024-09-03,Social
+881,Olivia,Martinez,customer881@example.com,United States,2023-10-17,Paid Search
+882,Priya,Brown,customer882@example.com,United States,2023-07-15,Email
+883,Liam,Mueller,customer883@example.com,United States,2024-07-12,Organic Search
+884,Michael,Jones,customer884@example.com,United States,2024-03-19,Organic Search
+885,Ana,Dubois,customer885@example.com,Canada,2024-04-23,Social
+886,Linda,Brown,customer886@example.com,Germany,2024-07-29,Paid Search
+887,Priya,Nguyen,customer887@example.com,Germany,2024-09-19,Social
+888,Priya,Brown,customer888@example.com,France,2023-01-31,Organic Search
+889,Omar,Rodriguez,customer889@example.com,Brazil,2024-01-11,Social
+890,Liam,Davis,customer890@example.com,United States,2024-07-10,Organic Search
+891,Fatima,Wang,customer891@example.com,United States,2023-12-29,Organic Search
+892,Emma,Lopez,customer892@example.com,Canada,2023-09-19,Paid Search
+893,Olivia,Silva,customer893@example.com,United States,2024-06-25,Direct
+894,Ana,Santos,customer894@example.com,Spain,2024-07-02,Paid Search
+895,Emma,Smith,customer895@example.com,United States,2023-03-28,Referral
+896,Olivia,Khan,customer896@example.com,Brazil,2023-07-20,Paid Search
+897,Yuki,Rodriguez,customer897@example.com,United States,2024-03-06,Organic Search
+898,James,Garcia,customer898@example.com,United Kingdom,2023-10-05,Organic Search
+899,David,Tanaka,customer899@example.com,United Kingdom,2023-11-01,Organic Search
+900,Omar,Martinez,customer900@example.com,Australia,2024-01-14,Paid Search
+901,Aarav,Shah,customer901@example.com,United States,2023-12-20,Organic Search
+902,James,Garcia,customer902@example.com,United Kingdom,2024-05-11,Email
+903,Robert,Kim,customer903@example.com,Spain,2024-06-16,Social
+904,Ana,Chen,customer904@example.com,United States,2024-05-13,Social
+905,John,Jones,customer905@example.com,United States,2024-09-28,Social
+906,Hana,Santos,customer906@example.com,United States,2023-05-19,Email
+907,James,Williams,customer907@example.com,India,2023-04-09,Social
+908,Hana,Mueller,customer908@example.com,Germany,2024-10-25,Organic Search
+909,Michael,Chen,customer909@example.com,United States,2024-06-03,Paid Search
+910,Mei,Rossi,customer910@example.com,Netherlands,2023-06-13,Organic Search
+911,Aarav,Garcia,customer911@example.com,Netherlands,2023-04-01,Email
+912,Priya,Martinez,customer912@example.com,United Kingdom,2024-11-15,Organic Search
+913,Hana,Patel,customer913@example.com,United Kingdom,2024-01-30,Organic Search
+914,Omar,Kim,customer914@example.com,United States,2023-07-03,Direct
+915,Olivia,Williams,customer915@example.com,Spain,2024-06-07,Referral
+916,Mary,Jones,customer916@example.com,Brazil,2024-10-27,Social
+917,Jennifer,Lopez,customer917@example.com,Germany,2024-08-04,Paid Search
+918,Olivia,Johnson,customer918@example.com,United Kingdom,2023-04-12,Social
+919,Ana,Williams,customer919@example.com,United States,2024-02-11,Social
+920,David,Rossi,customer920@example.com,Germany,2024-05-13,Direct
+921,Ana,Wang,customer921@example.com,United States,2023-03-23,Social
+922,Sofia,Silva,customer922@example.com,United Kingdom,2023-12-31,Referral
+923,Luca,Wang,customer923@example.com,United States,2023-04-26,Social
+924,David,Miller,customer924@example.com,United States,2023-05-27,Organic Search
+925,Omar,Mueller,customer925@example.com,Brazil,2023-01-13,Organic Search
+926,Patricia,Shah,customer926@example.com,United Kingdom,2023-04-24,Email
+927,Mei,Brown,customer927@example.com,India,2024-11-13,Social
+928,Elizabeth,Khan,customer928@example.com,United States,2023-11-16,Paid Search
+929,Ana,Kim,customer929@example.com,United States,2023-07-13,Email
+930,Sofia,Mueller,customer930@example.com,Spain,2023-10-13,Organic Search
+931,Ana,Martinez,customer931@example.com,United States,2023-01-19,Referral
+932,Mary,Davis,customer932@example.com,United States,2024-05-02,Organic Search
+933,Wei,Silva,customer933@example.com,United States,2023-03-06,Social
+934,Mary,Smith,customer934@example.com,United States,2024-07-02,Referral
+935,Michael,Martinez,customer935@example.com,Germany,2023-07-07,Email
+936,Michael,Lopez,customer936@example.com,France,2024-11-06,Organic Search
+937,Robert,Lopez,customer937@example.com,United Kingdom,2024-06-18,Organic Search
+938,David,Martinez,customer938@example.com,France,2024-01-19,Organic Search
+939,Aarav,Brown,customer939@example.com,United States,2023-03-16,Organic Search
+940,James,Dubois,customer940@example.com,Germany,2023-07-07,Email
+941,Hana,Wang,customer941@example.com,Spain,2023-02-14,Social
+942,Jennifer,Jones,customer942@example.com,France,2024-06-11,Organic Search
+943,Wei,Nguyen,customer943@example.com,Canada,2023-06-11,Email
+944,Yuki,Davis,customer944@example.com,United States,2023-07-07,Email
+945,Noah,Nguyen,customer945@example.com,United States,2023-07-03,Organic Search
+946,Ana,Shah,customer946@example.com,United States,2023-10-22,Paid Search
+947,John,Chen,customer947@example.com,United States,2024-09-23,Direct
+948,Hana,Johnson,customer948@example.com,United Kingdom,2023-08-19,Organic Search
+949,Mei,Smith,customer949@example.com,United States,2023-08-21,Organic Search
+950,Luca,Williams,customer950@example.com,United States,2024-02-07,Social
+951,Aarav,Kim,customer951@example.com,India,2023-01-31,Social
+952,Mei,Kim,customer952@example.com,United Kingdom,2024-03-21,Direct
+953,Wei,Tanaka,customer953@example.com,United States,2024-07-19,Email
+954,Carlos,Wang,customer954@example.com,United Kingdom,2023-01-14,Organic Search
+955,Elizabeth,Brown,customer955@example.com,Australia,2023-02-22,Social
+956,Wei,Smith,customer956@example.com,United States,2023-09-17,Email
+957,Aarav,Garcia,customer957@example.com,United States,2024-04-10,Organic Search
+958,Fatima,Silva,customer958@example.com,United States,2023-10-17,Social
+959,Luca,Tanaka,customer959@example.com,United States,2023-03-16,Paid Search
+960,Priya,Williams,customer960@example.com,United States,2024-03-16,Social
+961,Mei,Brown,customer961@example.com,France,2023-06-03,Social
+962,Linda,Wang,customer962@example.com,United States,2023-07-28,Direct
+963,Liam,Chen,customer963@example.com,United States,2024-01-25,Email
+964,Noah,Williams,customer964@example.com,Netherlands,2023-06-06,Direct
+965,Wei,Martinez,customer965@example.com,United States,2024-09-10,Direct
+966,Hana,Patel,customer966@example.com,Germany,2024-03-03,Direct
+967,Linda,Patel,customer967@example.com,United States,2023-05-21,Paid Search
+968,Omar,Garcia,customer968@example.com,Spain,2024-07-21,Organic Search
+969,John,Mueller,customer969@example.com,United States,2024-11-28,Social
+970,Carlos,Brown,customer970@example.com,France,2024-09-23,Organic Search
+971,Noah,Mueller,customer971@example.com,France,2023-08-23,Referral
+972,Michael,Lopez,customer972@example.com,Spain,2024-06-06,Email
+973,Priya,Shah,customer973@example.com,United States,2024-08-28,Paid Search
+974,Hana,Santos,customer974@example.com,Brazil,2024-10-13,Organic Search
+975,Robert,Davis,customer975@example.com,Spain,2024-05-16,Social
+976,Patricia,Jones,customer976@example.com,United Kingdom,2024-07-06,Organic Search
+977,David,Miller,customer977@example.com,United States,2023-08-15,Organic Search
+978,Jennifer,Silva,customer978@example.com,United States,2023-01-13,Direct
+979,Robert,Lopez,customer979@example.com,France,2023-01-31,Paid Search
+980,Omar,Santos,customer980@example.com,United Kingdom,2023-06-15,Direct
+981,John,Garcia,customer981@example.com,France,2023-04-10,Social
+982,Omar,Santos,customer982@example.com,United States,2023-06-11,Referral
+983,Sofia,Rossi,customer983@example.com,Canada,2023-10-01,Referral
+984,Omar,Kim,customer984@example.com,France,2023-05-29,Paid Search
+985,Omar,Kim,customer985@example.com,India,2023-03-06,Paid Search
+986,Luca,Khan,customer986@example.com,France,2023-08-15,Direct
+987,Liam,Santos,customer987@example.com,United Kingdom,2023-02-23,Organic Search
+988,Carlos,Silva,customer988@example.com,France,2023-02-22,Organic Search
+989,Aarav,Santos,customer989@example.com,United States,2023-04-12,Organic Search
+990,Aarav,Jones,customer990@example.com,United States,2024-02-02,Social
+991,Luca,Williams,customer991@example.com,United States,2023-04-21,Direct
+992,Sofia,Rossi,customer992@example.com,France,2024-06-19,Direct
+993,Carlos,Martinez,customer993@example.com,United Kingdom,2024-01-13,Email
+994,Fatima,Rodriguez,customer994@example.com,Canada,2023-04-29,Email
+995,Liam,Johnson,customer995@example.com,United States,2023-04-14,Direct
+996,Priya,Mueller,customer996@example.com,United States,2024-05-16,Email
+997,John,Martinez,customer997@example.com,United States,2024-11-04,Paid Search
+998,Luca,Rossi,customer998@example.com,United States,2024-05-15,Email
+999,Mary,Johnson,customer999@example.com,United States,2024-06-02,Paid Search
+1000,Priya,Martinez,customer1000@example.com,United Kingdom,2024-06-11,Email
+1001,John,Santos,customer1001@example.com,India,2024-10-08,Email
+1002,John,Silva,customer1002@example.com,India,2023-06-09,Email
+1003,Olivia,Mueller,customer1003@example.com,United Kingdom,2024-05-18,Paid Search
+1004,Wei,Rossi,customer1004@example.com,India,2024-10-05,Email
+1005,Liam,Nguyen,customer1005@example.com,United States,2023-06-06,Social
+1006,Fatima,Ali,customer1006@example.com,United States,2023-03-20,Email
+1007,Mary,Rossi,customer1007@example.com,Spain,2024-05-30,Referral
+1008,Fatima,Kim,customer1008@example.com,United Kingdom,2024-10-06,Social
+1009,Carlos,Miller,customer1009@example.com,Spain,2023-11-27,Organic Search
+1010,Aarav,Silva,customer1010@example.com,United States,2023-08-21,Email
+1011,Sofia,Mueller,customer1011@example.com,United States,2023-07-18,Social
+1012,Robert,Johnson,customer1012@example.com,United States,2024-01-29,Organic Search
+1013,Luca,Brown,customer1013@example.com,Australia,2024-04-05,Social
+1014,Fatima,Patel,customer1014@example.com,Germany,2024-02-16,Direct
+1015,Yuki,Williams,customer1015@example.com,Netherlands,2024-11-17,Paid Search
+1016,Noah,Santos,customer1016@example.com,United Kingdom,2024-11-30,Organic Search
+1017,Jennifer,Johnson,customer1017@example.com,United States,2024-11-16,Organic Search
+1018,Linda,Tanaka,customer1018@example.com,United Kingdom,2023-01-05,Organic Search
+1019,Luca,Rossi,customer1019@example.com,United States,2023-09-05,Referral
+1020,Noah,Mueller,customer1020@example.com,United States,2023-01-15,Referral
+1021,Olivia,Garcia,customer1021@example.com,United States,2024-07-11,Organic Search
+1022,Priya,Shah,customer1022@example.com,Canada,2024-08-20,Social
+1023,Elizabeth,Chen,customer1023@example.com,United States,2023-10-29,Organic Search
+1024,Mei,Lopez,customer1024@example.com,United States,2024-06-01,Organic Search
+1025,Aarav,Khan,customer1025@example.com,France,2023-08-23,Organic Search
+1026,Olivia,Johnson,customer1026@example.com,Canada,2023-11-27,Direct
+1027,Fatima,Santos,customer1027@example.com,Germany,2024-10-29,Organic Search
+1028,Carlos,Patel,customer1028@example.com,Spain,2024-08-02,Referral
+1029,John,Patel,customer1029@example.com,Brazil,2024-11-29,Social
+1030,Patricia,Nguyen,customer1030@example.com,United Kingdom,2023-05-19,Direct
+1031,Ana,Chen,customer1031@example.com,United States,2023-11-07,Organic Search
+1032,Elizabeth,Rodriguez,customer1032@example.com,United States,2024-01-25,Email
+1033,Hana,Khan,customer1033@example.com,United States,2024-07-24,Email
+1034,Olivia,Jones,customer1034@example.com,Spain,2023-09-02,Referral
+1035,Aarav,Williams,customer1035@example.com,United States,2024-06-03,Paid Search
+1036,Liam,Khan,customer1036@example.com,United States,2023-12-18,Organic Search
+1037,Robert,Shah,customer1037@example.com,France,2024-03-02,Organic Search
+1038,Elizabeth,Santos,customer1038@example.com,Canada,2024-08-22,Direct
+1039,Yuki,Khan,customer1039@example.com,United States,2023-02-13,Organic Search
+1040,Wei,Jones,customer1040@example.com,United States,2024-09-04,Social
+1041,Olivia,Tanaka,customer1041@example.com,Germany,2023-09-12,Organic Search
+1042,John,Martinez,customer1042@example.com,United Kingdom,2023-11-18,Direct
+1043,Emma,Chen,customer1043@example.com,United States,2024-09-04,Paid Search
+1044,Carlos,Patel,customer1044@example.com,United States,2024-10-14,Direct
+1045,Robert,Khan,customer1045@example.com,United States,2024-03-13,Direct
+1046,Yuki,Ali,customer1046@example.com,United Kingdom,2024-05-13,Social
+1047,Ana,Mueller,customer1047@example.com,United States,2023-11-23,Paid Search
+1048,John,Santos,customer1048@example.com,United States,2024-09-20,Organic Search
+1049,Ana,Wang,customer1049@example.com,Germany,2023-12-25,Paid Search
+1050,Noah,Shah,customer1050@example.com,Brazil,2023-10-01,Paid Search
+1051,James,Shah,customer1051@example.com,United States,2024-11-23,Social
+1052,Elizabeth,Garcia,customer1052@example.com,Netherlands,2023-04-24,Direct
+1053,Michael,Patel,customer1053@example.com,United States,2024-02-08,Social
+1054,Omar,Dubois,customer1054@example.com,United States,2023-02-10,Organic Search
+1055,Michael,Davis,customer1055@example.com,United States,2024-02-05,Email
+1056,Robert,Jones,customer1056@example.com,Germany,2024-08-02,Paid Search
+1057,John,Martinez,customer1057@example.com,United Kingdom,2024-10-22,Email
+1058,Fatima,Brown,customer1058@example.com,United States,2024-02-07,Paid Search
+1059,Noah,Lopez,customer1059@example.com,Australia,2023-11-23,Paid Search
+1060,Emma,Ali,customer1060@example.com,Canada,2024-04-06,Paid Search
+1061,Noah,Johnson,customer1061@example.com,United Kingdom,2024-02-03,Organic Search
+1062,Ana,Patel,customer1062@example.com,United States,2024-07-06,Social
+1063,Omar,Silva,customer1063@example.com,United States,2024-07-11,Organic Search
+1064,Robert,Silva,customer1064@example.com,India,2023-09-28,Paid Search
+1065,Wei,Jones,customer1065@example.com,Australia,2024-01-02,Direct
+1066,Jennifer,Garcia,customer1066@example.com,France,2023-07-08,Email
+1067,Yuki,Lopez,customer1067@example.com,Germany,2024-06-19,Organic Search
+1068,Olivia,Garcia,customer1068@example.com,United Kingdom,2024-03-08,Paid Search
+1069,Hana,Rossi,customer1069@example.com,Netherlands,2023-10-06,Paid Search
+1070,Mary,Wang,customer1070@example.com,Canada,2023-06-30,Organic Search
+1071,Priya,Khan,customer1071@example.com,United Kingdom,2024-11-30,Organic Search
+1072,Hana,Davis,customer1072@example.com,United States,2024-10-11,Organic Search
+1073,Luca,Silva,customer1073@example.com,United States,2023-03-26,Organic Search
+1074,Elizabeth,Lopez,customer1074@example.com,United States,2024-11-21,Organic Search
+1075,Hana,Rossi,customer1075@example.com,Canada,2023-02-07,Social
+1076,Linda,Nguyen,customer1076@example.com,Australia,2023-06-18,Paid Search
+1077,Linda,Martinez,customer1077@example.com,India,2023-11-02,Direct
+1078,Fatima,Dubois,customer1078@example.com,Australia,2023-04-22,Organic Search
+1079,Michael,Shah,customer1079@example.com,United States,2024-01-17,Referral
+1080,Ana,Kim,customer1080@example.com,United States,2024-07-04,Email
+1081,Luca,Rossi,customer1081@example.com,Germany,2023-11-06,Email
+1082,Omar,Martinez,customer1082@example.com,United States,2024-07-24,Email
+1083,Omar,Chen,customer1083@example.com,United States,2023-02-01,Email
+1084,Noah,Mueller,customer1084@example.com,United States,2024-06-04,Social
+1085,Mei,Garcia,customer1085@example.com,United States,2024-05-19,Referral
+1086,Michael,Silva,customer1086@example.com,France,2023-04-21,Email
+1087,Robert,Rodriguez,customer1087@example.com,Canada,2023-04-12,Email
+1088,Mary,Santos,customer1088@example.com,United States,2024-07-16,Referral
+1089,Sofia,Shah,customer1089@example.com,United States,2023-03-29,Organic Search
+1090,Emma,Brown,customer1090@example.com,United Kingdom,2024-02-27,Referral
+1091,Yuki,Mueller,customer1091@example.com,United States,2024-02-11,Direct
+1092,Patricia,Martinez,customer1092@example.com,United States,2023-11-09,Direct
+1093,John,Lopez,customer1093@example.com,United States,2024-04-21,Organic Search
+1094,Jennifer,Rodriguez,customer1094@example.com,Brazil,2023-12-06,Direct
+1095,Luca,Mueller,customer1095@example.com,Canada,2024-07-28,Email
+1096,Robert,Wang,customer1096@example.com,Spain,2023-04-19,Social
+1097,John,Davis,customer1097@example.com,United States,2024-04-18,Email
+1098,Luca,Shah,customer1098@example.com,Netherlands,2023-05-08,Organic Search
+1099,James,Wang,customer1099@example.com,Australia,2023-02-12,Organic Search
+1100,Mary,Chen,customer1100@example.com,Australia,2023-09-27,Organic Search
+1101,Noah,Shah,customer1101@example.com,United Kingdom,2023-11-11,Email
+1102,Linda,Chen,customer1102@example.com,United States,2023-06-17,Social
+1103,John,Shah,customer1103@example.com,United Kingdom,2023-10-10,Organic Search
+1104,Linda,Smith,customer1104@example.com,Australia,2023-08-28,Social
+1105,Aarav,Brown,customer1105@example.com,United States,2024-08-14,Direct
+1106,Yuki,Santos,customer1106@example.com,France,2024-10-21,Social
+1107,Aarav,Jones,customer1107@example.com,India,2024-05-28,Email
+1108,Robert,Johnson,customer1108@example.com,United States,2024-06-02,Referral
+1109,Elizabeth,Dubois,customer1109@example.com,Australia,2024-09-17,Direct
+1110,Yuki,Jones,customer1110@example.com,United States,2023-07-29,Organic Search
+1111,Omar,Tanaka,customer1111@example.com,United States,2023-04-23,Paid Search
+1112,Sofia,Rossi,customer1112@example.com,United States,2023-10-10,Referral
+1113,Olivia,Smith,customer1113@example.com,Canada,2024-05-31,Paid Search
+1114,John,Smith,customer1114@example.com,United States,2023-04-28,Paid Search
+1115,David,Miller,customer1115@example.com,United States,2023-02-19,Email
+1116,Robert,Nguyen,customer1116@example.com,United States,2023-07-16,Organic Search
+1117,Hana,Silva,customer1117@example.com,Spain,2024-11-09,Social
+1118,Noah,Wang,customer1118@example.com,Canada,2024-11-24,Organic Search
+1119,Patricia,Lopez,customer1119@example.com,United States,2023-08-03,Email
+1120,Elizabeth,Davis,customer1120@example.com,United States,2024-02-08,Organic Search
+1121,Elizabeth,Brown,customer1121@example.com,Brazil,2023-12-27,Organic Search
+1122,Mary,Davis,customer1122@example.com,Brazil,2024-10-30,Organic Search
+1123,Mei,Santos,customer1123@example.com,United States,2024-07-23,Paid Search
+1124,Fatima,Silva,customer1124@example.com,France,2023-03-23,Paid Search
+1125,Luca,Williams,customer1125@example.com,United States,2024-11-19,Organic Search
+1126,Patricia,Dubois,customer1126@example.com,United Kingdom,2023-04-08,Organic Search
+1127,Olivia,Nguyen,customer1127@example.com,United Kingdom,2024-09-27,Email
+1128,James,Santos,customer1128@example.com,Germany,2023-06-03,Organic Search
+1129,Noah,Kim,customer1129@example.com,Netherlands,2024-10-30,Organic Search
+1130,Linda,Tanaka,customer1130@example.com,United States,2024-07-06,Social
+1131,Robert,Martinez,customer1131@example.com,United States,2024-08-18,Social
+1132,Mei,Smith,customer1132@example.com,United States,2023-11-05,Referral
+1133,Olivia,Shah,customer1133@example.com,France,2023-10-10,Email
+1134,Linda,Kim,customer1134@example.com,Germany,2024-07-13,Social
+1135,Mei,Garcia,customer1135@example.com,Germany,2023-02-28,Direct
+1136,Ana,Khan,customer1136@example.com,United States,2023-03-06,Paid Search
+1137,John,Mueller,customer1137@example.com,United States,2023-03-20,Referral
+1138,Priya,Williams,customer1138@example.com,Germany,2023-09-05,Email
+1139,Noah,Nguyen,customer1139@example.com,United States,2023-01-25,Social
+1140,Noah,Mueller,customer1140@example.com,Germany,2023-10-28,Organic Search
+1141,Emma,Smith,customer1141@example.com,Netherlands,2023-06-13,Organic Search
+1142,Wei,Dubois,customer1142@example.com,Australia,2023-03-14,Organic Search
+1143,Mary,Santos,customer1143@example.com,Brazil,2023-09-19,Organic Search
+1144,Wei,Shah,customer1144@example.com,Canada,2024-01-05,Paid Search
+1145,David,Ali,customer1145@example.com,United States,2024-05-21,Direct
+1146,James,Shah,customer1146@example.com,United States,2024-01-02,Paid Search
+1147,Fatima,Williams,customer1147@example.com,United States,2023-03-14,Referral
+1148,Priya,Davis,customer1148@example.com,Germany,2023-02-12,Organic Search
+1149,Hana,Khan,customer1149@example.com,United States,2023-07-31,Social
+1150,Carlos,Brown,customer1150@example.com,United States,2023-05-31,Direct
+1151,Omar,Kim,customer1151@example.com,United States,2024-07-28,Organic Search
+1152,Hana,Lopez,customer1152@example.com,United States,2023-10-26,Organic Search
+1153,Aarav,Jones,customer1153@example.com,United States,2023-03-02,Organic Search
+1154,Mary,Shah,customer1154@example.com,France,2023-06-10,Organic Search
+1155,Emma,Patel,customer1155@example.com,United States,2023-10-31,Direct
+1156,Carlos,Garcia,customer1156@example.com,Australia,2024-09-30,Referral
+1157,Omar,Khan,customer1157@example.com,Canada,2024-08-11,Paid Search
+1158,Luca,Tanaka,customer1158@example.com,United Kingdom,2024-08-25,Organic Search
+1159,Sofia,Santos,customer1159@example.com,United States,2024-05-04,Organic Search
+1160,Jennifer,Jones,customer1160@example.com,United Kingdom,2024-09-10,Organic Search
+1161,John,Tanaka,customer1161@example.com,India,2024-11-24,Organic Search
+1162,Omar,Rossi,customer1162@example.com,United Kingdom,2023-07-06,Social
+1163,Mary,Martinez,customer1163@example.com,Germany,2023-12-29,Direct
+1164,Michael,Johnson,customer1164@example.com,United States,2024-11-10,Social
+1165,Fatima,Miller,customer1165@example.com,Canada,2024-07-02,Paid Search
+1166,Mary,Patel,customer1166@example.com,United States,2023-03-04,Paid Search
+1167,Elizabeth,Mueller,customer1167@example.com,United States,2023-07-04,Social
+1168,Wei,Nguyen,customer1168@example.com,United States,2023-05-15,Social
+1169,Sofia,Rodriguez,customer1169@example.com,United States,2023-07-26,Email
+1170,Mary,Lopez,customer1170@example.com,United States,2023-05-01,Organic Search
+1171,Carlos,Miller,customer1171@example.com,Canada,2024-10-06,Referral
+1172,Elizabeth,Shah,customer1172@example.com,India,2023-08-30,Direct
+1173,Omar,Johnson,customer1173@example.com,United States,2024-08-18,Direct
+1174,Carlos,Patel,customer1174@example.com,United States,2023-05-09,Organic Search
+1175,David,Brown,customer1175@example.com,United Kingdom,2023-11-08,Organic Search
+1176,Fatima,Shah,customer1176@example.com,United States,2023-03-02,Direct
+1177,Mei,Chen,customer1177@example.com,Australia,2023-06-02,Organic Search
+1178,Hana,Rossi,customer1178@example.com,Spain,2024-07-20,Paid Search
+1179,Wei,Patel,customer1179@example.com,United Kingdom,2023-06-26,Referral
+1180,Jennifer,Dubois,customer1180@example.com,United States,2023-04-07,Direct
+1181,Yuki,Dubois,customer1181@example.com,United Kingdom,2023-01-06,Social
+1182,Priya,Mueller,customer1182@example.com,United Kingdom,2024-10-23,Email
+1183,David,Williams,customer1183@example.com,Australia,2023-03-28,Direct
+1184,Hana,Wang,customer1184@example.com,United States,2024-02-18,Social
+1185,John,Wang,customer1185@example.com,United Kingdom,2023-10-12,Paid Search
+1186,Olivia,Garcia,customer1186@example.com,France,2024-11-02,Organic Search
+1187,Emma,Martinez,customer1187@example.com,United States,2023-02-14,Organic Search
+1188,Aarav,Brown,customer1188@example.com,United Kingdom,2024-03-25,Email
+1189,John,Patel,customer1189@example.com,United States,2024-08-28,Organic Search
+1190,Ana,Martinez,customer1190@example.com,United States,2024-09-29,Direct
+1191,Elizabeth,Rossi,customer1191@example.com,United States,2024-09-25,Organic Search
+1192,Olivia,Tanaka,customer1192@example.com,United Kingdom,2024-11-04,Social
+1193,Mei,Garcia,customer1193@example.com,United States,2023-07-25,Organic Search
+1194,Yuki,Rossi,customer1194@example.com,United States,2023-05-07,Organic Search
+1195,Priya,Rossi,customer1195@example.com,Germany,2024-02-16,Referral
+1196,Mary,Ali,customer1196@example.com,United States,2023-05-17,Paid Search
+1197,Priya,Silva,customer1197@example.com,France,2023-01-19,Paid Search
+1198,Mei,Rodriguez,customer1198@example.com,United States,2024-03-24,Paid Search
+1199,Carlos,Johnson,customer1199@example.com,India,2023-05-21,Social
+1200,John,Khan,customer1200@example.com,United States,2023-08-27,Social
+1201,Carlos,Chen,customer1201@example.com,United States,2023-11-13,Organic Search
+1202,Priya,Mueller,customer1202@example.com,United Kingdom,2023-10-09,Organic Search
+1203,Fatima,Ali,customer1203@example.com,France,2023-11-01,Email
+1204,Ana,Garcia,customer1204@example.com,United States,2023-04-13,Organic Search
+1205,James,Jones,customer1205@example.com,India,2024-06-12,Email
+1206,Olivia,Khan,customer1206@example.com,United Kingdom,2024-01-22,Social
+1207,Fatima,Rossi,customer1207@example.com,France,2024-02-20,Direct
+1208,Mary,Jones,customer1208@example.com,France,2024-10-29,Email
+1209,John,Davis,customer1209@example.com,Australia,2023-04-03,Direct
+1210,Omar,Santos,customer1210@example.com,United States,2024-05-13,Paid Search
+1211,Priya,Shah,customer1211@example.com,United Kingdom,2023-07-18,Organic Search
+1212,Wei,Kim,customer1212@example.com,United Kingdom,2024-03-04,Organic Search
+1213,Mary,Silva,customer1213@example.com,Germany,2024-06-25,Organic Search
+1214,Robert,Khan,customer1214@example.com,United States,2024-01-19,Organic Search
+1215,Luca,Shah,customer1215@example.com,United Kingdom,2024-06-17,Organic Search
+1216,Priya,Rossi,customer1216@example.com,Australia,2023-10-19,Social
+1217,Omar,Williams,customer1217@example.com,United States,2023-02-18,Paid Search
+1218,Liam,Jones,customer1218@example.com,Brazil,2024-07-10,Organic Search
+1219,Noah,Shah,customer1219@example.com,United Kingdom,2023-08-09,Paid Search
+1220,Wei,Patel,customer1220@example.com,United States,2023-01-03,Paid Search
+1221,Carlos,Rodriguez,customer1221@example.com,France,2023-02-28,Paid Search
+1222,Linda,Brown,customer1222@example.com,France,2024-07-25,Social
+1223,James,Ali,customer1223@example.com,Netherlands,2024-09-10,Paid Search
+1224,Jennifer,Dubois,customer1224@example.com,Australia,2023-03-03,Paid Search
+1225,Noah,Chen,customer1225@example.com,Australia,2024-11-01,Email
+1226,Emma,Brown,customer1226@example.com,United States,2023-02-17,Email
+1227,David,Lopez,customer1227@example.com,United Kingdom,2023-09-07,Social
+1228,David,Tanaka,customer1228@example.com,United Kingdom,2024-04-24,Organic Search
+1229,Luca,Miller,customer1229@example.com,United States,2024-04-29,Email
+1230,Olivia,Martinez,customer1230@example.com,United States,2024-07-24,Organic Search
+1231,Yuki,Dubois,customer1231@example.com,United States,2023-08-08,Organic Search
+1232,Michael,Brown,customer1232@example.com,Canada,2024-02-04,Social
+1233,Robert,Williams,customer1233@example.com,Canada,2024-07-29,Direct
+1234,Luca,Garcia,customer1234@example.com,Canada,2024-04-14,Paid Search
+1235,Yuki,Rossi,customer1235@example.com,France,2024-03-20,Organic Search
+1236,John,Khan,customer1236@example.com,Germany,2024-06-03,Organic Search
+1237,Aarav,Khan,customer1237@example.com,United States,2023-08-25,Paid Search
+1238,Priya,Tanaka,customer1238@example.com,United Kingdom,2024-10-11,Organic Search
+1239,John,Nguyen,customer1239@example.com,Germany,2024-08-15,Organic Search
+1240,Emma,Martinez,customer1240@example.com,Australia,2024-01-06,Social
+1241,Elizabeth,Garcia,customer1241@example.com,United States,2024-01-04,Email
+1242,Yuki,Tanaka,customer1242@example.com,Germany,2023-08-27,Email
+1243,Yuki,Santos,customer1243@example.com,United States,2023-03-02,Organic Search
+1244,Jennifer,Shah,customer1244@example.com,United Kingdom,2023-06-05,Organic Search
+1245,Noah,Davis,customer1245@example.com,France,2024-08-08,Direct
+1246,Patricia,Miller,customer1246@example.com,United Kingdom,2024-01-23,Referral
+1247,Fatima,Jones,customer1247@example.com,Canada,2023-12-06,Email
+1248,Linda,Dubois,customer1248@example.com,United States,2023-06-10,Organic Search
+1249,James,Shah,customer1249@example.com,United States,2024-07-28,Paid Search
+1250,Emma,Kim,customer1250@example.com,United States,2024-08-30,Social
+1251,Priya,Rossi,customer1251@example.com,India,2023-04-30,Email
+1252,Fatima,Nguyen,customer1252@example.com,India,2023-08-05,Direct
+1253,Robert,Silva,customer1253@example.com,Brazil,2024-03-30,Direct
+1254,John,Williams,customer1254@example.com,Canada,2023-09-15,Direct
+1255,Elizabeth,Chen,customer1255@example.com,United States,2024-07-03,Referral
+1256,Yuki,Ali,customer1256@example.com,Netherlands,2023-10-26,Direct
+1257,Sofia,Mueller,customer1257@example.com,India,2024-07-26,Referral
+1258,Mei,Lopez,customer1258@example.com,Germany,2024-11-05,Paid Search
+1259,Mei,Kim,customer1259@example.com,United States,2024-04-03,Email
+1260,John,Jones,customer1260@example.com,Germany,2024-05-22,Organic Search
+1261,Aarav,Santos,customer1261@example.com,United States,2023-06-15,Direct
+1262,John,Rossi,customer1262@example.com,Canada,2024-03-08,Organic Search
+1263,Luca,Khan,customer1263@example.com,United Kingdom,2023-07-26,Organic Search
+1264,Noah,Shah,customer1264@example.com,Germany,2024-05-29,Direct
+1265,Robert,Lopez,customer1265@example.com,United States,2023-05-18,Organic Search
+1266,Emma,Santos,customer1266@example.com,Canada,2024-06-24,Paid Search
+1267,Liam,Garcia,customer1267@example.com,United States,2023-03-15,Social
+1268,Omar,Jones,customer1268@example.com,Germany,2023-02-17,Referral
+1269,Mei,Mueller,customer1269@example.com,United States,2024-09-13,Social
+1270,Mary,Brown,customer1270@example.com,United States,2023-07-10,Referral
+1271,Noah,Jones,customer1271@example.com,Germany,2024-07-15,Direct
+1272,Elizabeth,Garcia,customer1272@example.com,Netherlands,2024-04-12,Social
+1273,Jennifer,Patel,customer1273@example.com,United Kingdom,2023-10-15,Email
+1274,Yuki,Davis,customer1274@example.com,India,2024-07-20,Organic Search
+1275,Priya,Mueller,customer1275@example.com,United States,2023-03-16,Social
+1276,Elizabeth,Williams,customer1276@example.com,Germany,2024-02-29,Referral
+1277,David,Miller,customer1277@example.com,United States,2023-07-01,Organic Search
+1278,Carlos,Nguyen,customer1278@example.com,Australia,2023-03-05,Paid Search
+1279,David,Jones,customer1279@example.com,France,2024-09-07,Paid Search
+1280,Carlos,Martinez,customer1280@example.com,Spain,2023-04-03,Organic Search
+1281,Olivia,Nguyen,customer1281@example.com,Canada,2024-03-09,Social
+1282,John,Mueller,customer1282@example.com,United Kingdom,2023-02-12,Paid Search
+1283,Carlos,Garcia,customer1283@example.com,Spain,2024-06-15,Social
+1284,Liam,Kim,customer1284@example.com,Spain,2023-07-03,Direct
+1285,Robert,Garcia,customer1285@example.com,Germany,2024-03-13,Social
+1286,Ana,Silva,customer1286@example.com,France,2023-05-30,Organic Search
+1287,Hana,Silva,customer1287@example.com,Germany,2024-10-01,Organic Search
+1288,Aarav,Kim,customer1288@example.com,United Kingdom,2024-06-02,Referral
+1289,Mary,Smith,customer1289@example.com,Canada,2023-06-04,Paid Search
+1290,John,Johnson,customer1290@example.com,United States,2024-05-25,Organic Search
+1291,Carlos,Lopez,customer1291@example.com,France,2023-08-22,Social
+1292,Liam,Rodriguez,customer1292@example.com,Spain,2023-09-21,Email
+1293,Carlos,Miller,customer1293@example.com,United States,2024-01-01,Organic Search
+1294,Omar,Kim,customer1294@example.com,United States,2024-09-22,Email
+1295,Mei,Silva,customer1295@example.com,United States,2023-12-16,Social
+1296,Carlos,Smith,customer1296@example.com,United States,2023-04-08,Organic Search
+1297,Sofia,Santos,customer1297@example.com,United States,2023-10-03,Referral
+1298,Emma,Martinez,customer1298@example.com,United States,2024-07-17,Social
+1299,Carlos,Martinez,customer1299@example.com,United States,2024-09-29,Organic Search
+1300,Sofia,Davis,customer1300@example.com,United States,2023-08-24,Email
+1301,Fatima,Khan,customer1301@example.com,Germany,2023-04-20,Organic Search
+1302,Wei,Martinez,customer1302@example.com,United States,2024-07-21,Organic Search
+1303,Luca,Williams,customer1303@example.com,United States,2023-02-18,Paid Search
+1304,Yuki,Johnson,customer1304@example.com,United States,2023-02-05,Direct
+1305,Jennifer,Rossi,customer1305@example.com,Canada,2023-08-11,Organic Search
+1306,Mei,Dubois,customer1306@example.com,United States,2024-01-11,Social
+1307,Luca,Miller,customer1307@example.com,France,2024-01-10,Social
+1308,Aarav,Silva,customer1308@example.com,United States,2023-07-09,Social
+1309,Robert,Patel,customer1309@example.com,United States,2024-02-28,Paid Search
+1310,Yuki,Patel,customer1310@example.com,United States,2023-04-22,Direct
+1311,Hana,Shah,customer1311@example.com,United Kingdom,2023-03-06,Paid Search
+1312,Wei,Jones,customer1312@example.com,United States,2024-03-14,Paid Search
+1313,Omar,Shah,customer1313@example.com,Germany,2023-03-30,Email
+1314,Noah,Nguyen,customer1314@example.com,United States,2024-02-03,Organic Search
+1315,Patricia,Patel,customer1315@example.com,Australia,2024-05-17,Referral
+1316,Linda,Rossi,customer1316@example.com,Spain,2024-01-28,Organic Search
+1317,Patricia,Rodriguez,customer1317@example.com,United Kingdom,2023-03-23,Social
+1318,Luca,Davis,customer1318@example.com,France,2024-03-03,Social
+1319,Robert,Brown,customer1319@example.com,Canada,2023-08-15,Organic Search
+1320,Mary,Martinez,customer1320@example.com,Canada,2023-07-06,Organic Search
+1321,Wei,Silva,customer1321@example.com,United Kingdom,2023-08-17,Email
+1322,Mei,Davis,customer1322@example.com,United Kingdom,2023-07-07,Social
+1323,Jennifer,Patel,customer1323@example.com,Brazil,2023-05-12,Referral
+1324,Liam,Ali,customer1324@example.com,United States,2024-11-02,Organic Search
+1325,Aarav,Miller,customer1325@example.com,United States,2023-04-30,Organic Search
+1326,Omar,Garcia,customer1326@example.com,United Kingdom,2024-02-16,Paid Search
+1327,Sofia,Mueller,customer1327@example.com,Germany,2024-02-10,Social
+1328,Luca,Dubois,customer1328@example.com,Germany,2023-09-04,Organic Search
+1329,Elizabeth,Dubois,customer1329@example.com,United States,2023-07-25,Referral
+1330,James,Williams,customer1330@example.com,United States,2024-11-29,Email
+1331,Wei,Mueller,customer1331@example.com,Canada,2023-12-15,Organic Search
+1332,Luca,Davis,customer1332@example.com,United States,2023-12-11,Organic Search
+1333,Michael,Kim,customer1333@example.com,United States,2024-08-18,Organic Search
+1334,Priya,Johnson,customer1334@example.com,Germany,2024-06-08,Social
+1335,Mary,Martinez,customer1335@example.com,United States,2023-10-03,Organic Search
+1336,Sofia,Silva,customer1336@example.com,United Kingdom,2024-04-25,Organic Search
+1337,Carlos,Khan,customer1337@example.com,United States,2023-02-27,Referral
+1338,Sofia,Martinez,customer1338@example.com,United States,2023-10-06,Organic Search
+1339,Emma,Smith,customer1339@example.com,Canada,2024-04-18,Social
+1340,Patricia,Wang,customer1340@example.com,United Kingdom,2023-08-17,Email
+1341,Robert,Rodriguez,customer1341@example.com,Germany,2023-09-29,Email
+1342,Hana,Shah,customer1342@example.com,Germany,2024-05-25,Referral
+1343,Omar,Chen,customer1343@example.com,United States,2024-08-30,Email
+1344,Priya,Johnson,customer1344@example.com,United States,2023-12-04,Organic Search
+1345,Wei,Johnson,customer1345@example.com,United States,2024-10-22,Social
+1346,Liam,Nguyen,customer1346@example.com,Germany,2024-04-11,Direct
+1347,Michael,Shah,customer1347@example.com,United Kingdom,2023-12-30,Organic Search
+1348,Emma,Martinez,customer1348@example.com,United States,2024-11-22,Direct
+1349,John,Chen,customer1349@example.com,Australia,2024-10-10,Organic Search
+1350,Noah,Rossi,customer1350@example.com,United States,2023-04-08,Paid Search
+1351,Omar,Nguyen,customer1351@example.com,France,2023-05-20,Organic Search
+1352,David,Silva,customer1352@example.com,Netherlands,2023-03-13,Email
+1353,Ana,Silva,customer1353@example.com,Australia,2023-04-17,Paid Search
+1354,Patricia,Jones,customer1354@example.com,United Kingdom,2023-05-19,Social
+1355,Patricia,Chen,customer1355@example.com,United States,2024-04-25,Email
+1356,Priya,Patel,customer1356@example.com,Netherlands,2024-02-28,Paid Search
+1357,Emma,Shah,customer1357@example.com,United States,2024-09-05,Direct
+1358,Omar,Jones,customer1358@example.com,United States,2023-08-21,Paid Search
+1359,Michael,Silva,customer1359@example.com,Spain,2023-05-29,Email
+1360,Noah,Chen,customer1360@example.com,Germany,2024-10-29,Social
+1361,Noah,Johnson,customer1361@example.com,United States,2023-07-03,Direct
+1362,Mary,Johnson,customer1362@example.com,Germany,2023-04-29,Social
+1363,Robert,Tanaka,customer1363@example.com,Netherlands,2023-08-06,Paid Search
+1364,Aarav,Dubois,customer1364@example.com,United States,2023-09-26,Email
+1365,Noah,Rossi,customer1365@example.com,United States,2023-04-15,Paid Search
+1366,Robert,Silva,customer1366@example.com,United States,2023-03-24,Paid Search
+1367,Noah,Jones,customer1367@example.com,United States,2024-11-26,Organic Search
+1368,Aarav,Silva,customer1368@example.com,Brazil,2023-07-29,Social
+1369,Aarav,Garcia,customer1369@example.com,United States,2024-04-04,Paid Search
+1370,Wei,Silva,customer1370@example.com,United States,2024-05-06,Organic Search
+1371,Hana,Martinez,customer1371@example.com,Germany,2023-07-03,Organic Search
+1372,Liam,Patel,customer1372@example.com,United States,2024-10-15,Direct
+1373,Noah,Mueller,customer1373@example.com,United States,2024-08-01,Paid Search
+1374,Emma,Dubois,customer1374@example.com,Canada,2023-03-14,Email
+1375,Yuki,Kim,customer1375@example.com,United States,2023-01-10,Paid Search
+1376,Elizabeth,Dubois,customer1376@example.com,Canada,2023-07-14,Organic Search
+1377,James,Shah,customer1377@example.com,United Kingdom,2023-09-28,Direct
+1378,Aarav,Khan,customer1378@example.com,United States,2024-07-09,Paid Search
+1379,Patricia,Wang,customer1379@example.com,United States,2023-12-17,Email
+1380,Liam,Martinez,customer1380@example.com,United States,2023-05-12,Email
+1381,Fatima,Ali,customer1381@example.com,United States,2023-05-09,Email
+1382,Yuki,Santos,customer1382@example.com,Germany,2024-01-13,Direct
+1383,James,Silva,customer1383@example.com,United States,2024-09-19,Email
+1384,Sofia,Rodriguez,customer1384@example.com,United States,2024-04-25,Email
+1385,Carlos,Lopez,customer1385@example.com,United States,2023-09-07,Email
+1386,Liam,Kim,customer1386@example.com,United States,2023-01-25,Organic Search
+1387,Linda,Ali,customer1387@example.com,Netherlands,2023-03-11,Paid Search
+1388,Mary,Kim,customer1388@example.com,United States,2023-10-30,Social
+1389,Sofia,Garcia,customer1389@example.com,Australia,2024-10-22,Social
+1390,Noah,Santos,customer1390@example.com,France,2024-10-24,Paid Search
+1391,Hana,Silva,customer1391@example.com,United States,2023-05-18,Organic Search
+1392,Omar,Chen,customer1392@example.com,United States,2024-05-17,Email
+1393,Robert,Khan,customer1393@example.com,United States,2023-08-25,Paid Search
+1394,Linda,Johnson,customer1394@example.com,Brazil,2024-03-18,Organic Search
+1395,Liam,Tanaka,customer1395@example.com,India,2024-08-07,Email
+1396,Patricia,Miller,customer1396@example.com,United States,2023-12-26,Social
+1397,James,Rossi,customer1397@example.com,United States,2023-04-18,Organic Search
+1398,Aarav,Wang,customer1398@example.com,United States,2024-03-20,Paid Search
+1399,Robert,Wang,customer1399@example.com,United States,2024-08-28,Referral
+1400,Yuki,Miller,customer1400@example.com,United States,2024-11-26,Organic Search
+1401,Mei,Mueller,customer1401@example.com,United States,2024-07-17,Social
+1402,Omar,Silva,customer1402@example.com,United States,2023-10-05,Social
+1403,Sofia,Ali,customer1403@example.com,France,2023-07-10,Direct
+1404,Hana,Johnson,customer1404@example.com,Australia,2023-12-01,Paid Search
+1405,Yuki,Jones,customer1405@example.com,United States,2023-07-27,Direct
+1406,Noah,Miller,customer1406@example.com,United Kingdom,2024-06-12,Organic Search
+1407,Emma,Patel,customer1407@example.com,United Kingdom,2023-06-15,Social
+1408,Ana,Dubois,customer1408@example.com,United States,2023-06-12,Paid Search
+1409,Noah,Chen,customer1409@example.com,Germany,2024-03-20,Email
+1410,Aarav,Garcia,customer1410@example.com,United Kingdom,2023-09-26,Paid Search
+1411,Luca,Nguyen,customer1411@example.com,United States,2024-11-05,Email
+1412,Aarav,Nguyen,customer1412@example.com,France,2024-07-23,Social
+1413,Priya,Khan,customer1413@example.com,Netherlands,2023-01-26,Paid Search
+1414,Omar,Ali,customer1414@example.com,United States,2024-01-25,Social
+1415,Ana,Santos,customer1415@example.com,United States,2023-05-26,Referral
+1416,Fatima,Tanaka,customer1416@example.com,United States,2024-04-06,Paid Search
+1417,David,Silva,customer1417@example.com,Germany,2024-02-03,Referral
+1418,Sofia,Miller,customer1418@example.com,United States,2024-02-23,Paid Search
+1419,Linda,Rodriguez,customer1419@example.com,France,2024-09-03,Referral
+1420,Emma,Martinez,customer1420@example.com,Australia,2023-02-13,Social
+1421,Linda,Martinez,customer1421@example.com,India,2023-05-25,Referral
+1422,Omar,Martinez,customer1422@example.com,United States,2023-12-21,Paid Search
+1423,Yuki,Miller,customer1423@example.com,Germany,2023-05-08,Organic Search
+1424,Yuki,Tanaka,customer1424@example.com,United States,2023-07-06,Direct
+1425,Sofia,Patel,customer1425@example.com,United States,2024-01-23,Organic Search
+1426,Sofia,Shah,customer1426@example.com,France,2023-08-25,Organic Search
+1427,Emma,Ali,customer1427@example.com,United Kingdom,2023-05-16,Email
+1428,David,Martinez,customer1428@example.com,United States,2023-07-20,Direct
+1429,Patricia,Kim,customer1429@example.com,Netherlands,2024-08-05,Direct
+1430,Ana,Nguyen,customer1430@example.com,Germany,2023-05-05,Paid Search
+1431,Wei,Chen,customer1431@example.com,United States,2024-04-02,Organic Search
+1432,Priya,Lopez,customer1432@example.com,Canada,2024-02-27,Direct
+1433,Fatima,Jones,customer1433@example.com,Germany,2023-06-22,Organic Search
+1434,Elizabeth,Johnson,customer1434@example.com,United States,2024-09-25,Organic Search
+1435,Elizabeth,Tanaka,customer1435@example.com,Netherlands,2023-04-03,Organic Search
+1436,John,Shah,customer1436@example.com,United States,2023-05-26,Social
+1437,Luca,Santos,customer1437@example.com,United States,2024-04-01,Social
+1438,David,Ali,customer1438@example.com,India,2024-09-15,Social
+1439,Sofia,Miller,customer1439@example.com,United States,2023-04-16,Referral
+1440,Michael,Nguyen,customer1440@example.com,United States,2024-01-23,Organic Search
+1441,David,Nguyen,customer1441@example.com,France,2024-02-20,Direct
+1442,Yuki,Rodriguez,customer1442@example.com,United States,2024-06-17,Paid Search
+1443,Robert,Brown,customer1443@example.com,Brazil,2024-05-29,Organic Search
+1444,Olivia,Ali,customer1444@example.com,France,2023-09-27,Organic Search
+1445,Liam,Davis,customer1445@example.com,United States,2023-08-21,Organic Search
+1446,Linda,Johnson,customer1446@example.com,United States,2023-05-05,Paid Search
+1447,Ana,Mueller,customer1447@example.com,Netherlands,2023-09-13,Email
+1448,Linda,Santos,customer1448@example.com,United Kingdom,2023-08-25,Paid Search
+1449,Linda,Johnson,customer1449@example.com,India,2024-08-08,Organic Search
+1450,Patricia,Wang,customer1450@example.com,United States,2023-11-10,Direct
+1451,Aarav,Tanaka,customer1451@example.com,France,2023-01-25,Social
+1452,Sofia,Brown,customer1452@example.com,United States,2023-04-09,Direct
+1453,Ana,Lopez,customer1453@example.com,Brazil,2023-08-02,Organic Search
+1454,Robert,Smith,customer1454@example.com,United States,2024-03-23,Organic Search
+1455,Emma,Garcia,customer1455@example.com,United States,2023-05-01,Organic Search
+1456,Mei,Santos,customer1456@example.com,United States,2023-11-27,Organic Search
+1457,Sofia,Dubois,customer1457@example.com,United States,2024-04-27,Social
+1458,Carlos,Miller,customer1458@example.com,Canada,2023-09-19,Paid Search
+1459,Omar,Martinez,customer1459@example.com,United States,2023-08-27,Social
+1460,Aarav,Martinez,customer1460@example.com,United Kingdom,2023-11-29,Organic Search
+1461,Carlos,Johnson,customer1461@example.com,United States,2024-04-18,Email
+1462,Omar,Williams,customer1462@example.com,Netherlands,2023-03-13,Paid Search
+1463,Carlos,Kim,customer1463@example.com,United States,2024-07-28,Paid Search
+1464,Linda,Nguyen,customer1464@example.com,Australia,2024-07-08,Organic Search
+1465,Hana,Ali,customer1465@example.com,United States,2024-01-11,Organic Search
+1466,Mary,Garcia,customer1466@example.com,United States,2023-03-31,Paid Search
+1467,Mei,Garcia,customer1467@example.com,India,2023-06-24,Organic Search
+1468,Mary,Chen,customer1468@example.com,United States,2024-02-04,Email
+1469,Fatima,Dubois,customer1469@example.com,United Kingdom,2023-06-29,Paid Search
+1470,Jennifer,Ali,customer1470@example.com,United Kingdom,2023-07-14,Email
+1471,Elizabeth,Johnson,customer1471@example.com,United States,2024-03-11,Social
+1472,James,Martinez,customer1472@example.com,United States,2023-03-05,Direct
+1473,Liam,Silva,customer1473@example.com,United States,2023-10-12,Organic Search
+1474,Patricia,Patel,customer1474@example.com,United States,2023-06-13,Organic Search
+1475,Elizabeth,Rossi,customer1475@example.com,United States,2023-05-26,Organic Search
+1476,Carlos,Nguyen,customer1476@example.com,United States,2023-02-14,Direct
+1477,Noah,Dubois,customer1477@example.com,Germany,2024-03-02,Organic Search
+1478,Robert,Mueller,customer1478@example.com,United States,2024-06-17,Paid Search
+1479,Luca,Rodriguez,customer1479@example.com,United States,2024-07-03,Email
+1480,Michael,Brown,customer1480@example.com,United States,2024-03-16,Social
+1481,Aarav,Garcia,customer1481@example.com,United States,2023-02-19,Organic Search
+1482,Hana,Rossi,customer1482@example.com,United Kingdom,2024-09-29,Organic Search
+1483,Carlos,Rodriguez,customer1483@example.com,United States,2023-10-27,Referral
+1484,Yuki,Garcia,customer1484@example.com,United Kingdom,2024-09-09,Organic Search
+1485,James,Ali,customer1485@example.com,Canada,2024-05-04,Social
+1486,Aarav,Martinez,customer1486@example.com,United Kingdom,2024-03-16,Social
+1487,Liam,Khan,customer1487@example.com,United Kingdom,2024-08-29,Social
+1488,Omar,Miller,customer1488@example.com,United States,2023-05-18,Paid Search
+1489,Jennifer,Silva,customer1489@example.com,Germany,2023-05-24,Organic Search
+1490,Carlos,Chen,customer1490@example.com,United States,2023-04-17,Organic Search
+1491,Mei,Mueller,customer1491@example.com,Canada,2023-12-07,Organic Search
+1492,Aarav,Williams,customer1492@example.com,United States,2023-11-02,Paid Search
+1493,Wei,Khan,customer1493@example.com,United States,2023-12-14,Social
+1494,Patricia,Garcia,customer1494@example.com,Canada,2023-06-30,Organic Search
+1495,Robert,Dubois,customer1495@example.com,United States,2023-04-18,Paid Search
+1496,Aarav,Davis,customer1496@example.com,Spain,2023-06-20,Organic Search
+1497,James,Rodriguez,customer1497@example.com,France,2023-07-14,Social
+1498,Wei,Davis,customer1498@example.com,United States,2024-10-17,Organic Search
+1499,Luca,Lopez,customer1499@example.com,United States,2024-08-18,Email
+1500,David,Patel,customer1500@example.com,United Kingdom,2024-01-16,Referral
+1501,Elizabeth,Kim,customer1501@example.com,Germany,2023-12-27,Organic Search
+1502,Hana,Kim,customer1502@example.com,United States,2023-09-03,Social
+1503,James,Rodriguez,customer1503@example.com,France,2024-04-12,Organic Search
+1504,Carlos,Shah,customer1504@example.com,United States,2023-12-02,Paid Search
+1505,Yuki,Davis,customer1505@example.com,United States,2023-11-18,Organic Search
+1506,Mary,Khan,customer1506@example.com,Germany,2023-07-20,Direct
+1507,Patricia,Rossi,customer1507@example.com,United States,2024-11-18,Social
+1508,Elizabeth,Garcia,customer1508@example.com,France,2023-11-17,Email
+1509,Wei,Khan,customer1509@example.com,France,2024-01-21,Referral
+1510,Noah,Tanaka,customer1510@example.com,Australia,2023-10-12,Social
+1511,Omar,Martinez,customer1511@example.com,United Kingdom,2023-12-06,Social
+1512,Yuki,Brown,customer1512@example.com,United States,2024-09-13,Social
+1513,Carlos,Martinez,customer1513@example.com,Netherlands,2024-11-04,Paid Search
+1514,Priya,Silva,customer1514@example.com,France,2024-03-29,Paid Search
+1515,Linda,Davis,customer1515@example.com,Canada,2023-07-25,Referral
+1516,Robert,Dubois,customer1516@example.com,Canada,2024-03-15,Email
+1517,Robert,Rossi,customer1517@example.com,Germany,2023-06-13,Social
+1518,Hana,Silva,customer1518@example.com,United States,2024-10-24,Organic Search
+1519,Priya,Wang,customer1519@example.com,Netherlands,2024-11-29,Paid Search
+1520,Yuki,Nguyen,customer1520@example.com,United States,2024-04-06,Organic Search
+1521,Sofia,Lopez,customer1521@example.com,United States,2024-01-31,Email
+1522,Emma,Khan,customer1522@example.com,United States,2023-05-22,Organic Search
+1523,Michael,Lopez,customer1523@example.com,United States,2024-06-10,Direct
+1524,Linda,Khan,customer1524@example.com,United Kingdom,2024-05-09,Paid Search
+1525,Omar,Silva,customer1525@example.com,Germany,2024-01-07,Paid Search
+1526,Fatima,Williams,customer1526@example.com,United States,2023-07-25,Organic Search
+1527,Noah,Rossi,customer1527@example.com,United States,2023-10-14,Social
+1528,Noah,Tanaka,customer1528@example.com,United States,2023-04-20,Social
+1529,Priya,Williams,customer1529@example.com,Australia,2023-09-08,Direct
+1530,Liam,Brown,customer1530@example.com,Australia,2023-11-22,Paid Search
+1531,Mary,Nguyen,customer1531@example.com,United States,2024-05-22,Paid Search
+1532,Noah,Miller,customer1532@example.com,United States,2024-10-02,Organic Search
+1533,Liam,Nguyen,customer1533@example.com,Australia,2024-08-09,Referral
+1534,Robert,Garcia,customer1534@example.com,India,2023-02-23,Referral
+1535,Aarav,Mueller,customer1535@example.com,United Kingdom,2024-07-11,Paid Search
+1536,Luca,Brown,customer1536@example.com,United States,2024-03-12,Paid Search
+1537,Ana,Miller,customer1537@example.com,Germany,2023-11-22,Email
+1538,Yuki,Kim,customer1538@example.com,Germany,2024-11-03,Organic Search
+1539,Sofia,Williams,customer1539@example.com,United States,2024-04-19,Social
+1540,Noah,Rossi,customer1540@example.com,Canada,2023-10-03,Direct
+1541,Fatima,Johnson,customer1541@example.com,United States,2023-04-12,Email
+1542,Luca,Jones,customer1542@example.com,Canada,2023-07-07,Paid Search
+1543,Noah,Wang,customer1543@example.com,Germany,2023-04-21,Direct
+1544,Luca,Kim,customer1544@example.com,United States,2023-07-30,Social
+1545,Mary,Nguyen,customer1545@example.com,United Kingdom,2024-09-18,Social
+1546,Luca,Khan,customer1546@example.com,United States,2023-05-17,Organic Search
+1547,Fatima,Martinez,customer1547@example.com,Brazil,2024-07-04,Paid Search
+1548,Hana,Smith,customer1548@example.com,United States,2024-03-14,Social
+1549,Wei,Rodriguez,customer1549@example.com,Netherlands,2024-02-15,Social
+1550,James,Ali,customer1550@example.com,France,2023-10-02,Organic Search
+1551,Michael,Kim,customer1551@example.com,Germany,2024-01-04,Direct
+1552,John,Johnson,customer1552@example.com,United Kingdom,2023-08-20,Organic Search
+1553,Mei,Shah,customer1553@example.com,United States,2024-01-11,Direct
+1554,Yuki,Williams,customer1554@example.com,United States,2023-11-20,Email
+1555,Emma,Johnson,customer1555@example.com,United States,2024-10-13,Direct
+1556,John,Dubois,customer1556@example.com,Canada,2023-02-15,Referral
+1557,Mary,Martinez,customer1557@example.com,Canada,2023-09-26,Email
+1558,Mei,Garcia,customer1558@example.com,France,2023-04-26,Paid Search
+1559,Omar,Jones,customer1559@example.com,France,2023-11-01,Paid Search
+1560,Omar,Santos,customer1560@example.com,Netherlands,2023-12-14,Organic Search
+1561,Hana,Santos,customer1561@example.com,Germany,2024-05-12,Referral
+1562,Mei,Shah,customer1562@example.com,Australia,2024-06-21,Paid Search
+1563,Wei,Rossi,customer1563@example.com,United States,2023-06-13,Organic Search
+1564,Wei,Chen,customer1564@example.com,Brazil,2023-12-14,Paid Search
+1565,John,Khan,customer1565@example.com,Spain,2024-02-18,Direct
+1566,Ana,Nguyen,customer1566@example.com,India,2024-09-13,Paid Search
+1567,Robert,Santos,customer1567@example.com,Germany,2024-09-09,Social
+1568,Priya,Brown,customer1568@example.com,Germany,2023-09-03,Organic Search
+1569,Jennifer,Nguyen,customer1569@example.com,United States,2023-03-28,Email
+1570,Wei,Mueller,customer1570@example.com,United States,2023-06-18,Organic Search
+1571,Robert,Ali,customer1571@example.com,Germany,2024-05-10,Paid Search
+1572,Linda,Smith,customer1572@example.com,United States,2024-11-03,Paid Search
+1573,Omar,Smith,customer1573@example.com,Canada,2024-05-30,Organic Search
+1574,Elizabeth,Rossi,customer1574@example.com,United Kingdom,2023-09-17,Social
+1575,Ana,Ali,customer1575@example.com,United States,2024-04-01,Organic Search
+1576,Emma,Wang,customer1576@example.com,United Kingdom,2023-10-19,Organic Search
+1577,Emma,Chen,customer1577@example.com,Germany,2023-10-10,Organic Search
+1578,Linda,Davis,customer1578@example.com,United States,2023-06-05,Organic Search
+1579,Luca,Shah,customer1579@example.com,India,2024-07-12,Paid Search
+1580,Robert,Rodriguez,customer1580@example.com,United States,2024-02-25,Referral
+1581,Michael,Ali,customer1581@example.com,United Kingdom,2023-02-08,Organic Search
+1582,Omar,Brown,customer1582@example.com,United Kingdom,2023-10-05,Social
+1583,Mary,Khan,customer1583@example.com,United States,2023-08-10,Paid Search
+1584,Mei,Silva,customer1584@example.com,Spain,2023-09-12,Organic Search
+1585,Omar,Smith,customer1585@example.com,Brazil,2024-03-17,Paid Search
+1586,Linda,Miller,customer1586@example.com,France,2024-01-25,Organic Search
+1587,John,Brown,customer1587@example.com,United Kingdom,2024-08-20,Paid Search
+1588,Olivia,Johnson,customer1588@example.com,United States,2023-12-23,Direct
+1589,Luca,Silva,customer1589@example.com,Canada,2023-08-17,Social
+1590,Ana,Tanaka,customer1590@example.com,Brazil,2024-02-27,Organic Search
+1591,Mary,Davis,customer1591@example.com,United States,2024-06-24,Organic Search
+1592,Hana,Johnson,customer1592@example.com,Germany,2023-09-28,Organic Search
+1593,Wei,Rossi,customer1593@example.com,United States,2023-06-21,Social
+1594,Linda,Nguyen,customer1594@example.com,United Kingdom,2024-11-13,Email
+1595,Michael,Lopez,customer1595@example.com,United States,2023-07-05,Organic Search
+1596,Omar,Johnson,customer1596@example.com,United States,2024-01-13,Organic Search
+1597,Robert,Mueller,customer1597@example.com,United States,2023-07-15,Email
+1598,Elizabeth,Davis,customer1598@example.com,United States,2023-01-22,Referral
+1599,Hana,Kim,customer1599@example.com,Canada,2024-03-01,Social
+1600,Aarav,Kim,customer1600@example.com,United States,2024-07-20,Direct
+1601,Olivia,Lopez,customer1601@example.com,Germany,2024-11-09,Organic Search
+1602,Ana,Patel,customer1602@example.com,United Kingdom,2024-09-22,Organic Search
+1603,Linda,Martinez,customer1603@example.com,United States,2024-10-23,Social
+1604,Robert,Khan,customer1604@example.com,United States,2024-07-07,Direct
+1605,Noah,Davis,customer1605@example.com,France,2023-09-08,Organic Search
+1606,Mei,Martinez,customer1606@example.com,United States,2023-05-03,Organic Search
+1607,David,Johnson,customer1607@example.com,United States,2023-12-14,Social
+1608,Emma,Kim,customer1608@example.com,United States,2024-01-31,Social
+1609,Hana,Garcia,customer1609@example.com,India,2023-05-27,Organic Search
+1610,Carlos,Khan,customer1610@example.com,United States,2023-05-02,Social
+1611,Mei,Nguyen,customer1611@example.com,United States,2024-08-19,Social
+1612,Sofia,Johnson,customer1612@example.com,United Kingdom,2023-01-16,Direct
+1613,Priya,Santos,customer1613@example.com,Spain,2023-11-30,Organic Search
+1614,Ana,Chen,customer1614@example.com,Canada,2023-01-15,Direct
+1615,Fatima,Mueller,customer1615@example.com,United Kingdom,2024-02-12,Paid Search
+1616,Aarav,Tanaka,customer1616@example.com,Spain,2023-09-23,Direct
+1617,Mei,Wang,customer1617@example.com,United States,2024-01-04,Organic Search
+1618,Robert,Martinez,customer1618@example.com,Canada,2024-04-09,Email
+1619,Wei,Garcia,customer1619@example.com,United States,2024-02-24,Referral
+1620,Omar,Nguyen,customer1620@example.com,United States,2024-03-02,Referral
+1621,Sofia,Davis,customer1621@example.com,United Kingdom,2024-07-08,Organic Search
+1622,Linda,Martinez,customer1622@example.com,United States,2024-03-19,Organic Search
+1623,Yuki,Jones,customer1623@example.com,United States,2023-02-25,Social
+1624,Fatima,Rossi,customer1624@example.com,Germany,2023-08-20,Social
+1625,Mary,Nguyen,customer1625@example.com,United States,2023-03-09,Organic Search
+1626,Mei,Wang,customer1626@example.com,Spain,2023-11-19,Social
+1627,Emma,Mueller,customer1627@example.com,United States,2024-03-07,Social
+1628,Robert,Chen,customer1628@example.com,United States,2024-06-20,Social
+1629,Linda,Rodriguez,customer1629@example.com,Germany,2023-03-07,Organic Search
+1630,Michael,Patel,customer1630@example.com,Netherlands,2023-06-24,Organic Search
+1631,Carlos,Williams,customer1631@example.com,Germany,2023-04-24,Social
+1632,Luca,Shah,customer1632@example.com,Brazil,2023-05-27,Organic Search
+1633,John,Nguyen,customer1633@example.com,Australia,2023-01-14,Organic Search
+1634,Hana,Miller,customer1634@example.com,Germany,2023-08-21,Email
+1635,Mary,Rodriguez,customer1635@example.com,United States,2024-10-24,Organic Search
+1636,Wei,Khan,customer1636@example.com,Canada,2023-03-17,Paid Search
+1637,Olivia,Silva,customer1637@example.com,United States,2024-11-29,Social
+1638,Mary,Williams,customer1638@example.com,India,2024-11-22,Organic Search
+1639,Michael,Lopez,customer1639@example.com,India,2024-02-14,Social
+1640,Liam,Ali,customer1640@example.com,United Kingdom,2023-06-17,Paid Search
+1641,Ana,Nguyen,customer1641@example.com,United Kingdom,2023-12-09,Organic Search
+1642,Michael,Dubois,customer1642@example.com,France,2024-06-23,Paid Search
+1643,Michael,Patel,customer1643@example.com,United States,2024-07-11,Email
+1644,Elizabeth,Smith,customer1644@example.com,India,2023-08-02,Direct
+1645,Michael,Miller,customer1645@example.com,United States,2024-05-03,Paid Search
+1646,Hana,Brown,customer1646@example.com,Canada,2023-03-05,Email
+1647,Hana,Lopez,customer1647@example.com,United States,2023-12-18,Social
+1648,Sofia,Davis,customer1648@example.com,United States,2024-04-07,Paid Search
+1649,Yuki,Silva,customer1649@example.com,United States,2024-04-10,Direct
+1650,Yuki,Miller,customer1650@example.com,United States,2024-03-10,Email
+1651,Wei,Davis,customer1651@example.com,France,2023-12-06,Paid Search
+1652,Emma,Patel,customer1652@example.com,United Kingdom,2023-09-02,Email
+1653,Omar,Martinez,customer1653@example.com,United Kingdom,2023-03-31,Organic Search
+1654,Wei,Rossi,customer1654@example.com,United States,2023-06-26,Organic Search
+1655,Emma,Santos,customer1655@example.com,United States,2024-09-20,Email
+1656,Priya,Martinez,customer1656@example.com,United States,2024-06-20,Paid Search
+1657,David,Shah,customer1657@example.com,United States,2023-11-27,Email
+1658,Noah,Dubois,customer1658@example.com,Germany,2023-03-16,Referral
+1659,Luca,Brown,customer1659@example.com,Germany,2024-05-17,Organic Search
+1660,Fatima,Ali,customer1660@example.com,Germany,2024-06-14,Social
+1661,Sofia,Lopez,customer1661@example.com,United Kingdom,2023-12-10,Direct
+1662,Aarav,Miller,customer1662@example.com,United States,2023-06-02,Direct
+1663,Priya,Patel,customer1663@example.com,Germany,2024-05-05,Paid Search
+1664,Mei,Johnson,customer1664@example.com,Australia,2023-08-09,Paid Search
+1665,Liam,Davis,customer1665@example.com,United States,2024-06-11,Organic Search
+1666,Hana,Jones,customer1666@example.com,United States,2023-02-11,Organic Search
+1667,James,Rodriguez,customer1667@example.com,United States,2024-03-14,Paid Search
+1668,Emma,Kim,customer1668@example.com,Germany,2023-02-14,Paid Search
+1669,Liam,Ali,customer1669@example.com,United States,2023-02-17,Email
+1670,Mei,Martinez,customer1670@example.com,United Kingdom,2023-01-10,Organic Search
+1671,Robert,Miller,customer1671@example.com,United States,2024-08-22,Direct
+1672,Aarav,Davis,customer1672@example.com,United States,2023-01-15,Direct
+1673,Wei,Kim,customer1673@example.com,Canada,2024-09-12,Referral
+1674,Linda,Dubois,customer1674@example.com,United States,2023-09-29,Social
+1675,Emma,Santos,customer1675@example.com,United Kingdom,2023-03-10,Social
+1676,Ana,Patel,customer1676@example.com,India,2024-10-19,Direct
+1677,David,Lopez,customer1677@example.com,France,2024-09-12,Paid Search
+1678,Sofia,Ali,customer1678@example.com,Germany,2023-01-08,Paid Search
+1679,Carlos,Ali,customer1679@example.com,United States,2024-06-04,Organic Search
+1680,Sofia,Rossi,customer1680@example.com,United States,2024-04-29,Direct
+1681,Jennifer,Ali,customer1681@example.com,United States,2024-01-11,Paid Search
+1682,Fatima,Shah,customer1682@example.com,Canada,2024-05-22,Email
+1683,Jennifer,Jones,customer1683@example.com,France,2023-05-10,Referral
+1684,Hana,Nguyen,customer1684@example.com,Brazil,2024-09-06,Social
+1685,Sofia,Garcia,customer1685@example.com,United States,2023-05-31,Paid Search
+1686,Emma,Santos,customer1686@example.com,Canada,2023-07-16,Email
+1687,Mary,Mueller,customer1687@example.com,United States,2024-03-09,Organic Search
+1688,Mary,Williams,customer1688@example.com,France,2024-05-07,Email
+1689,Ana,Johnson,customer1689@example.com,France,2023-04-16,Paid Search
+1690,Omar,Smith,customer1690@example.com,United States,2023-04-09,Social
+1691,Mei,Jones,customer1691@example.com,Germany,2023-07-11,Paid Search
+1692,Carlos,Davis,customer1692@example.com,United Kingdom,2024-04-11,Referral
+1693,John,Tanaka,customer1693@example.com,Netherlands,2024-01-19,Paid Search
+1694,Robert,Smith,customer1694@example.com,United States,2023-08-05,Email
+1695,Michael,Mueller,customer1695@example.com,United States,2023-09-27,Referral
+1696,Luca,Shah,customer1696@example.com,United States,2024-06-02,Email
+1697,Mary,Silva,customer1697@example.com,United Kingdom,2023-05-24,Organic Search
+1698,Carlos,Khan,customer1698@example.com,United States,2024-08-06,Social
+1699,Olivia,Dubois,customer1699@example.com,India,2024-08-17,Paid Search
+1700,Ana,Dubois,customer1700@example.com,India,2023-01-07,Email
+1701,James,Smith,customer1701@example.com,France,2024-06-01,Referral
+1702,Emma,Nguyen,customer1702@example.com,United States,2023-10-12,Organic Search
+1703,Mei,Smith,customer1703@example.com,Germany,2024-11-16,Social
+1704,James,Mueller,customer1704@example.com,United States,2023-04-25,Organic Search
+1705,Hana,Rodriguez,customer1705@example.com,India,2023-03-16,Organic Search
+1706,Emma,Martinez,customer1706@example.com,United States,2024-08-24,Email
+1707,James,Mueller,customer1707@example.com,Spain,2023-08-10,Direct
+1708,Yuki,Khan,customer1708@example.com,United States,2023-04-22,Direct
+1709,Mei,Garcia,customer1709@example.com,France,2024-09-12,Email
+1710,Patricia,Brown,customer1710@example.com,Germany,2023-11-08,Social
+1711,Noah,Jones,customer1711@example.com,United States,2024-01-22,Organic Search
+1712,Linda,Miller,customer1712@example.com,Spain,2023-10-10,Organic Search
+1713,Olivia,Mueller,customer1713@example.com,United States,2023-06-21,Direct
+1714,David,Shah,customer1714@example.com,United Kingdom,2023-10-25,Organic Search
+1715,David,Chen,customer1715@example.com,Germany,2024-04-28,Paid Search
+1716,John,Shah,customer1716@example.com,United Kingdom,2023-07-28,Direct
+1717,Wei,Rossi,customer1717@example.com,Netherlands,2023-08-12,Referral
+1718,Liam,Davis,customer1718@example.com,Australia,2024-09-02,Email
+1719,Yuki,Davis,customer1719@example.com,Netherlands,2023-09-10,Organic Search
+1720,Elizabeth,Khan,customer1720@example.com,United States,2023-01-24,Social
+1721,John,Santos,customer1721@example.com,India,2024-05-16,Organic Search
+1722,Carlos,Lopez,customer1722@example.com,United States,2024-08-04,Direct
+1723,Mary,Williams,customer1723@example.com,United States,2023-09-04,Organic Search
+1724,Wei,Chen,customer1724@example.com,India,2024-07-12,Organic Search
+1725,Wei,Nguyen,customer1725@example.com,United States,2024-05-02,Organic Search
+1726,Sofia,Johnson,customer1726@example.com,Netherlands,2023-08-10,Organic Search
+1727,Carlos,Smith,customer1727@example.com,United States,2024-06-29,Paid Search
+1728,Yuki,Garcia,customer1728@example.com,United Kingdom,2023-12-15,Paid Search
+1729,John,Dubois,customer1729@example.com,United States,2024-04-21,Organic Search
+1730,Mei,Santos,customer1730@example.com,United States,2024-07-03,Paid Search
+1731,Fatima,Patel,customer1731@example.com,United States,2024-01-21,Email
+1732,Liam,Brown,customer1732@example.com,United Kingdom,2024-07-21,Paid Search
+1733,Noah,Johnson,customer1733@example.com,Canada,2024-03-20,Organic Search
+1734,Linda,Miller,customer1734@example.com,Germany,2023-11-02,Paid Search
+1735,Yuki,Kim,customer1735@example.com,United States,2023-09-30,Organic Search
+1736,Sofia,Rodriguez,customer1736@example.com,United Kingdom,2023-05-12,Paid Search
+1737,Mary,Williams,customer1737@example.com,United States,2024-01-25,Direct
+1738,Ana,Rodriguez,customer1738@example.com,Netherlands,2023-03-10,Paid Search
+1739,Emma,Kim,customer1739@example.com,Germany,2024-09-08,Paid Search
+1740,Ana,Johnson,customer1740@example.com,United States,2024-03-01,Organic Search
+1741,Jennifer,Patel,customer1741@example.com,United Kingdom,2024-09-03,Paid Search
+1742,James,Miller,customer1742@example.com,United States,2024-11-04,Organic Search
+1743,Liam,Jones,customer1743@example.com,France,2024-08-31,Referral
+1744,Omar,Tanaka,customer1744@example.com,France,2023-04-07,Paid Search
+1745,Wei,Williams,customer1745@example.com,United States,2023-05-05,Paid Search
+1746,Elizabeth,Garcia,customer1746@example.com,France,2024-06-27,Organic Search
+1747,Liam,Davis,customer1747@example.com,United States,2024-03-14,Referral
+1748,Liam,Chen,customer1748@example.com,United States,2024-04-08,Email
+1749,Ana,Nguyen,customer1749@example.com,United States,2024-04-16,Paid Search
+1750,Aarav,Chen,customer1750@example.com,United Kingdom,2023-01-18,Email
+1751,Omar,Ali,customer1751@example.com,France,2023-06-20,Social
+1752,Robert,Tanaka,customer1752@example.com,Canada,2023-03-20,Email
+1753,Hana,Williams,customer1753@example.com,United Kingdom,2023-03-12,Referral
+1754,Noah,Ali,customer1754@example.com,United States,2023-10-23,Email
+1755,Priya,Johnson,customer1755@example.com,Brazil,2023-03-09,Direct
+1756,Patricia,Wang,customer1756@example.com,United States,2023-12-29,Social
+1757,Linda,Williams,customer1757@example.com,United States,2024-06-04,Paid Search
+1758,Aarav,Silva,customer1758@example.com,United States,2024-03-10,Organic Search
+1759,Omar,Silva,customer1759@example.com,Australia,2024-06-15,Organic Search
+1760,Olivia,Chen,customer1760@example.com,Spain,2023-03-06,Organic Search
+1761,Omar,Patel,customer1761@example.com,United States,2024-01-19,Organic Search
+1762,James,Santos,customer1762@example.com,United States,2024-11-27,Paid Search
+1763,David,Rossi,customer1763@example.com,United States,2023-10-13,Referral
+1764,Sofia,Davis,customer1764@example.com,United Kingdom,2023-05-06,Paid Search
+1765,Priya,Nguyen,customer1765@example.com,Australia,2024-09-01,Paid Search
+1766,Wei,Wang,customer1766@example.com,United States,2024-02-06,Paid Search
+1767,Jennifer,Khan,customer1767@example.com,France,2024-02-02,Direct
+1768,Liam,Khan,customer1768@example.com,United States,2024-03-15,Social
+1769,Wei,Williams,customer1769@example.com,United States,2024-07-22,Direct
+1770,Omar,Silva,customer1770@example.com,United States,2024-04-21,Organic Search
+1771,Elizabeth,Davis,customer1771@example.com,Canada,2023-08-07,Organic Search
+1772,Yuki,Williams,customer1772@example.com,United Kingdom,2023-03-02,Organic Search
+1773,John,Rodriguez,customer1773@example.com,Australia,2023-03-06,Social
+1774,Robert,Chen,customer1774@example.com,Australia,2023-09-30,Direct
+1775,Yuki,Santos,customer1775@example.com,United States,2024-11-23,Paid Search
+1776,Robert,Ali,customer1776@example.com,Canada,2024-03-27,Paid Search
+1777,Wei,Patel,customer1777@example.com,France,2024-08-30,Organic Search
+1778,Priya,Brown,customer1778@example.com,United States,2023-05-05,Direct
+1779,John,Smith,customer1779@example.com,Canada,2023-05-30,Social
+1780,Elizabeth,Rossi,customer1780@example.com,United States,2024-03-13,Paid Search
+1781,Priya,Lopez,customer1781@example.com,United States,2023-07-30,Paid Search
+1782,David,Brown,customer1782@example.com,Spain,2023-10-06,Organic Search
+1783,Robert,Williams,customer1783@example.com,Spain,2023-02-13,Email
+1784,Jennifer,Wang,customer1784@example.com,United States,2024-07-01,Paid Search
+1785,Luca,Nguyen,customer1785@example.com,France,2023-07-04,Social
+1786,Emma,Mueller,customer1786@example.com,United Kingdom,2024-08-31,Social
+1787,Mei,Brown,customer1787@example.com,United Kingdom,2023-11-30,Email
+1788,James,Williams,customer1788@example.com,United States,2024-08-01,Organic Search
+1789,Priya,Nguyen,customer1789@example.com,United Kingdom,2023-06-18,Email
+1790,John,Silva,customer1790@example.com,Germany,2023-11-10,Direct
+1791,Olivia,Patel,customer1791@example.com,United States,2024-09-08,Paid Search
+1792,Wei,Smith,customer1792@example.com,United States,2024-06-01,Organic Search
+1793,Elizabeth,Wang,customer1793@example.com,France,2023-08-14,Social
+1794,Wei,Lopez,customer1794@example.com,United States,2023-07-28,Referral
+1795,John,Ali,customer1795@example.com,United Kingdom,2024-11-12,Referral
+1796,Emma,Davis,customer1796@example.com,United Kingdom,2024-07-06,Email
+1797,Liam,Mueller,customer1797@example.com,United States,2023-10-11,Paid Search
+1798,Jennifer,Khan,customer1798@example.com,United Kingdom,2024-05-12,Paid Search
+1799,Wei,Garcia,customer1799@example.com,India,2023-04-24,Paid Search
+1800,Robert,Rodriguez,customer1800@example.com,United States,2023-08-03,Organic Search
+1801,Elizabeth,Rodriguez,customer1801@example.com,France,2023-03-15,Paid Search
+1802,Sofia,Jones,customer1802@example.com,United States,2023-04-27,Organic Search
+1803,John,Garcia,customer1803@example.com,United States,2024-02-28,Social
+1804,Mei,Rodriguez,customer1804@example.com,Australia,2023-08-17,Paid Search
+1805,Mei,Martinez,customer1805@example.com,Australia,2023-11-14,Paid Search
+1806,Sofia,Williams,customer1806@example.com,United States,2023-09-30,Referral
+1807,Priya,Rodriguez,customer1807@example.com,France,2023-06-17,Organic Search
+1808,Linda,Ali,customer1808@example.com,United States,2024-11-25,Organic Search
+1809,Carlos,Dubois,customer1809@example.com,France,2023-10-01,Paid Search
+1810,Olivia,Silva,customer1810@example.com,United States,2024-07-10,Paid Search
+1811,Michael,Rossi,customer1811@example.com,United States,2024-03-08,Organic Search
+1812,Patricia,Jones,customer1812@example.com,Germany,2024-02-08,Social
+1813,Elizabeth,Smith,customer1813@example.com,United States,2024-09-11,Organic Search
+1814,Wei,Patel,customer1814@example.com,Canada,2023-09-04,Direct
+1815,Olivia,Chen,customer1815@example.com,United States,2023-06-03,Referral
+1816,Fatima,Patel,customer1816@example.com,Australia,2023-12-04,Organic Search
+1817,Luca,Patel,customer1817@example.com,United States,2023-09-30,Paid Search
+1818,Mei,Santos,customer1818@example.com,United States,2024-11-26,Paid Search
+1819,Olivia,Jones,customer1819@example.com,Australia,2024-07-20,Referral
+1820,Elizabeth,Patel,customer1820@example.com,Germany,2024-09-21,Email
+1821,Olivia,Tanaka,customer1821@example.com,Australia,2024-02-12,Paid Search
+1822,Michael,Dubois,customer1822@example.com,United States,2024-07-14,Organic Search
+1823,Aarav,Garcia,customer1823@example.com,United Kingdom,2023-05-24,Email
+1824,Wei,Patel,customer1824@example.com,Germany,2023-05-14,Organic Search
+1825,Elizabeth,Ali,customer1825@example.com,United States,2023-08-21,Organic Search
+1826,Yuki,Santos,customer1826@example.com,United States,2023-11-30,Email
+1827,Sofia,Kim,customer1827@example.com,United States,2023-10-28,Organic Search
+1828,Fatima,Davis,customer1828@example.com,France,2023-03-09,Referral
+1829,Aarav,Chen,customer1829@example.com,Australia,2024-02-02,Paid Search
+1830,David,Chen,customer1830@example.com,United Kingdom,2024-07-09,Social
+1831,Priya,Brown,customer1831@example.com,France,2024-09-01,Social
+1832,Liam,Miller,customer1832@example.com,United States,2024-07-31,Paid Search
+1833,Liam,Nguyen,customer1833@example.com,France,2023-07-24,Direct
+1834,Jennifer,Khan,customer1834@example.com,Canada,2024-01-15,Direct
+1835,Omar,Nguyen,customer1835@example.com,Germany,2024-07-11,Email
+1836,James,Ali,customer1836@example.com,India,2023-11-18,Paid Search
+1837,Luca,Tanaka,customer1837@example.com,United States,2023-12-05,Social
+1838,Michael,Rossi,customer1838@example.com,United Kingdom,2023-05-14,Organic Search
+1839,Fatima,Martinez,customer1839@example.com,United States,2023-01-18,Direct
+1840,Yuki,Williams,customer1840@example.com,United States,2024-01-08,Paid Search
+1841,Fatima,Wang,customer1841@example.com,Germany,2024-07-13,Organic Search
+1842,Ana,Dubois,customer1842@example.com,United States,2024-07-18,Email
+1843,Robert,Santos,customer1843@example.com,France,2024-03-18,Organic Search
+1844,Elizabeth,Davis,customer1844@example.com,United States,2024-01-22,Email
+1845,David,Khan,customer1845@example.com,United States,2023-10-20,Organic Search
+1846,Robert,Tanaka,customer1846@example.com,United Kingdom,2024-06-12,Email
+1847,Mei,Chen,customer1847@example.com,France,2023-09-24,Referral
+1848,John,Rossi,customer1848@example.com,United States,2024-06-30,Organic Search
+1849,Olivia,Dubois,customer1849@example.com,United States,2024-10-13,Organic Search
+1850,Liam,Chen,customer1850@example.com,United States,2024-06-29,Email
+1851,Emma,Mueller,customer1851@example.com,Canada,2024-10-18,Direct
+1852,Yuki,Wang,customer1852@example.com,United States,2024-05-30,Email
+1853,Emma,Johnson,customer1853@example.com,Germany,2023-03-26,Referral
+1854,Fatima,Shah,customer1854@example.com,United States,2023-07-16,Organic Search
+1855,Yuki,Nguyen,customer1855@example.com,Germany,2023-11-26,Organic Search
+1856,Olivia,Santos,customer1856@example.com,United Kingdom,2023-11-03,Organic Search
+1857,John,Brown,customer1857@example.com,United Kingdom,2024-10-13,Social
+1858,Omar,Davis,customer1858@example.com,United States,2024-10-12,Email
+1859,Ana,Khan,customer1859@example.com,Australia,2024-04-13,Organic Search
+1860,Priya,Garcia,customer1860@example.com,United States,2024-04-21,Social
+1861,Carlos,Silva,customer1861@example.com,Canada,2024-03-13,Direct
+1862,Mary,Kim,customer1862@example.com,United States,2023-08-24,Referral
+1863,Carlos,Khan,customer1863@example.com,United States,2023-08-04,Paid Search
+1864,Carlos,Chen,customer1864@example.com,Canada,2024-02-14,Organic Search
+1865,Omar,Patel,customer1865@example.com,United States,2024-07-09,Direct
+1866,Fatima,Wang,customer1866@example.com,United States,2024-03-21,Social
+1867,Patricia,Smith,customer1867@example.com,United States,2023-08-30,Paid Search
+1868,Patricia,Rodriguez,customer1868@example.com,Brazil,2023-04-30,Social
+1869,Linda,Mueller,customer1869@example.com,United States,2023-02-26,Social
+1870,Hana,Mueller,customer1870@example.com,Canada,2024-03-18,Email
+1871,Emma,Kim,customer1871@example.com,Australia,2023-12-18,Organic Search
+1872,Yuki,Kim,customer1872@example.com,United Kingdom,2024-08-08,Email
+1873,Linda,Rossi,customer1873@example.com,Brazil,2024-06-27,Paid Search
+1874,Priya,Chen,customer1874@example.com,United States,2023-02-26,Direct
+1875,Luca,Lopez,customer1875@example.com,France,2024-04-21,Social
+1876,Ana,Kim,customer1876@example.com,Australia,2023-10-16,Organic Search
+1877,Yuki,Mueller,customer1877@example.com,United States,2023-08-17,Paid Search
+1878,Robert,Shah,customer1878@example.com,United States,2024-02-06,Paid Search
+1879,James,Dubois,customer1879@example.com,United States,2024-06-25,Organic Search
+1880,Patricia,Martinez,customer1880@example.com,Brazil,2024-03-11,Direct
+1881,Mei,Williams,customer1881@example.com,India,2023-08-06,Social
+1882,Patricia,Ali,customer1882@example.com,United States,2024-08-23,Social
+1883,Robert,Shah,customer1883@example.com,United States,2023-10-02,Organic Search
+1884,Elizabeth,Patel,customer1884@example.com,Netherlands,2023-05-20,Organic Search
+1885,Luca,Miller,customer1885@example.com,Netherlands,2024-06-13,Social
+1886,Noah,Dubois,customer1886@example.com,United States,2024-02-18,Paid Search
+1887,Priya,Dubois,customer1887@example.com,India,2023-09-16,Social
+1888,Patricia,Rossi,customer1888@example.com,Canada,2023-09-07,Direct
+1889,Hana,Tanaka,customer1889@example.com,Spain,2023-04-18,Paid Search
+1890,Luca,Patel,customer1890@example.com,United States,2023-09-15,Paid Search
+1891,John,Martinez,customer1891@example.com,United States,2023-03-29,Organic Search
+1892,Mary,Tanaka,customer1892@example.com,Canada,2023-09-11,Paid Search
+1893,Patricia,Smith,customer1893@example.com,Germany,2024-02-01,Direct
+1894,Aarav,Santos,customer1894@example.com,United States,2023-06-18,Paid Search
+1895,Patricia,Khan,customer1895@example.com,United Kingdom,2023-12-28,Email
+1896,Fatima,Garcia,customer1896@example.com,United States,2024-02-20,Social
+1897,Hana,Davis,customer1897@example.com,United States,2024-07-30,Email
+1898,Noah,Garcia,customer1898@example.com,Brazil,2024-02-25,Paid Search
+1899,Emma,Garcia,customer1899@example.com,United States,2023-08-25,Referral
+1900,Aarav,Nguyen,customer1900@example.com,United States,2024-04-05,Organic Search
+1901,Mei,Rossi,customer1901@example.com,Brazil,2023-07-08,Direct
+1902,Linda,Chen,customer1902@example.com,United States,2024-11-01,Organic Search
+1903,Carlos,Garcia,customer1903@example.com,Australia,2024-08-24,Direct
+1904,Jennifer,Santos,customer1904@example.com,United Kingdom,2024-06-04,Direct
+1905,Ana,Wang,customer1905@example.com,Germany,2024-11-24,Organic Search
+1906,Wei,Smith,customer1906@example.com,Netherlands,2024-04-26,Email
+1907,Hana,Silva,customer1907@example.com,United Kingdom,2024-09-09,Direct
+1908,Michael,Rossi,customer1908@example.com,Netherlands,2023-03-16,Organic Search
+1909,Liam,Wang,customer1909@example.com,United States,2024-06-28,Social
+1910,Wei,Smith,customer1910@example.com,Netherlands,2023-04-11,Organic Search
+1911,Yuki,Miller,customer1911@example.com,United States,2024-01-12,Paid Search
+1912,Michael,Rodriguez,customer1912@example.com,United States,2023-08-09,Paid Search
+1913,Omar,Tanaka,customer1913@example.com,Spain,2024-01-31,Direct
+1914,Fatima,Williams,customer1914@example.com,United States,2023-10-08,Organic Search
+1915,Liam,Brown,customer1915@example.com,United States,2023-04-11,Direct
+1916,Fatima,Nguyen,customer1916@example.com,Canada,2024-10-19,Social
+1917,Jennifer,Shah,customer1917@example.com,United States,2024-09-24,Email
+1918,Aarav,Miller,customer1918@example.com,United States,2024-02-29,Organic Search
+1919,Luca,Brown,customer1919@example.com,United States,2023-01-28,Organic Search
+1920,David,Khan,customer1920@example.com,United States,2023-03-10,Paid Search
+1921,Sofia,Mueller,customer1921@example.com,Spain,2024-01-03,Direct
+1922,Carlos,Patel,customer1922@example.com,India,2024-11-16,Organic Search
+1923,Olivia,Chen,customer1923@example.com,United States,2024-07-14,Email
+1924,Olivia,Chen,customer1924@example.com,France,2023-05-12,Paid Search
+1925,Liam,Brown,customer1925@example.com,United States,2023-07-18,Referral
+1926,Priya,Shah,customer1926@example.com,Canada,2023-09-04,Social
+1927,Luca,Silva,customer1927@example.com,Brazil,2024-01-02,Paid Search
+1928,Jennifer,Khan,customer1928@example.com,India,2024-09-01,Paid Search
+1929,Yuki,Martinez,customer1929@example.com,Germany,2024-04-18,Email
+1930,Olivia,Kim,customer1930@example.com,United Kingdom,2024-06-22,Paid Search
+1931,John,Khan,customer1931@example.com,Canada,2024-02-24,Email
+1932,Robert,Patel,customer1932@example.com,India,2023-04-24,Social
+1933,Patricia,Davis,customer1933@example.com,United Kingdom,2024-08-10,Paid Search
+1934,Elizabeth,Brown,customer1934@example.com,United States,2023-02-13,Direct
+1935,Jennifer,Shah,customer1935@example.com,United States,2023-03-25,Referral
+1936,Yuki,Jones,customer1936@example.com,United States,2023-06-14,Social
+1937,Noah,Chen,customer1937@example.com,India,2023-02-06,Paid Search
+1938,Mei,Silva,customer1938@example.com,United States,2024-02-06,Social
+1939,Robert,Kim,customer1939@example.com,Canada,2024-04-12,Paid Search
+1940,Wei,Wang,customer1940@example.com,United States,2023-01-07,Organic Search
+1941,Jennifer,Dubois,customer1941@example.com,Netherlands,2024-05-21,Paid Search
+1942,Carlos,Nguyen,customer1942@example.com,United States,2023-02-11,Organic Search
+1943,Yuki,Santos,customer1943@example.com,United States,2024-01-29,Paid Search
+1944,Jennifer,Nguyen,customer1944@example.com,United States,2023-05-08,Organic Search
+1945,Jennifer,Dubois,customer1945@example.com,Spain,2024-08-26,Social
+1946,Elizabeth,Jones,customer1946@example.com,United States,2023-01-30,Organic Search
+1947,Jennifer,Patel,customer1947@example.com,United States,2023-03-10,Organic Search
+1948,Luca,Silva,customer1948@example.com,Netherlands,2024-03-20,Paid Search
+1949,Mary,Shah,customer1949@example.com,Canada,2023-05-27,Organic Search
+1950,James,Dubois,customer1950@example.com,United Kingdom,2024-08-31,Email
+1951,Robert,Miller,customer1951@example.com,United States,2024-01-13,Social
+1952,Wei,Nguyen,customer1952@example.com,United States,2023-03-12,Social
+1953,Noah,Santos,customer1953@example.com,United States,2023-05-07,Referral
+1954,Sofia,Wang,customer1954@example.com,United Kingdom,2024-01-07,Organic Search
+1955,Ana,Dubois,customer1955@example.com,United States,2023-06-05,Paid Search
+1956,Mei,Tanaka,customer1956@example.com,United States,2023-02-26,Paid Search
+1957,Luca,Dubois,customer1957@example.com,Germany,2023-07-12,Direct
+1958,Jennifer,Williams,customer1958@example.com,United States,2023-08-15,Organic Search
+1959,Liam,Smith,customer1959@example.com,United States,2024-09-30,Organic Search
+1960,Fatima,Lopez,customer1960@example.com,United States,2024-03-11,Direct
+1961,Linda,Martinez,customer1961@example.com,Spain,2023-07-03,Referral
+1962,Mary,Rodriguez,customer1962@example.com,United States,2024-01-06,Paid Search
+1963,Linda,Nguyen,customer1963@example.com,United States,2023-07-20,Direct
+1964,Elizabeth,Garcia,customer1964@example.com,France,2023-07-30,Social
+1965,Omar,Rossi,customer1965@example.com,Spain,2024-07-07,Social
+1966,Liam,Ali,customer1966@example.com,United States,2023-01-17,Social
+1967,Omar,Lopez,customer1967@example.com,France,2024-07-27,Email
+1968,Sofia,Nguyen,customer1968@example.com,India,2024-02-27,Referral
+1969,Noah,Brown,customer1969@example.com,India,2023-03-22,Organic Search
+1970,Liam,Brown,customer1970@example.com,Brazil,2024-01-23,Direct
+1971,David,Lopez,customer1971@example.com,Australia,2023-07-23,Organic Search
+1972,Emma,Shah,customer1972@example.com,United Kingdom,2023-07-15,Email
+1973,Emma,Lopez,customer1973@example.com,United States,2023-05-26,Email
+1974,Mary,Lopez,customer1974@example.com,United States,2023-07-29,Email
+1975,Hana,Rossi,customer1975@example.com,United States,2024-09-02,Direct
+1976,Emma,Miller,customer1976@example.com,United States,2023-10-15,Email
+1977,Mei,Brown,customer1977@example.com,Canada,2024-11-30,Social
+1978,Hana,Santos,customer1978@example.com,United States,2023-07-30,Email
+1979,Omar,Davis,customer1979@example.com,Canada,2024-03-08,Organic Search
+1980,Elizabeth,Johnson,customer1980@example.com,United States,2024-01-14,Social
+1981,Luca,Rodriguez,customer1981@example.com,Australia,2023-05-26,Organic Search
+1982,Priya,Williams,customer1982@example.com,Germany,2024-06-13,Direct
+1983,Luca,Brown,customer1983@example.com,India,2023-03-23,Social
+1984,Omar,Davis,customer1984@example.com,United States,2023-06-11,Organic Search
+1985,Michael,Ali,customer1985@example.com,United States,2023-02-07,Social
+1986,Liam,Tanaka,customer1986@example.com,United States,2024-05-08,Social
+1987,Priya,Tanaka,customer1987@example.com,United States,2024-08-16,Paid Search
+1988,Olivia,Santos,customer1988@example.com,Australia,2023-01-04,Paid Search
+1989,Mei,Garcia,customer1989@example.com,United States,2024-02-16,Social
+1990,Olivia,Jones,customer1990@example.com,United States,2023-05-30,Organic Search
+1991,Fatima,Miller,customer1991@example.com,United States,2024-11-08,Direct
+1992,Michael,Johnson,customer1992@example.com,United States,2023-08-05,Paid Search
+1993,Liam,Shah,customer1993@example.com,Spain,2023-05-20,Email
+1994,Emma,Rodriguez,customer1994@example.com,Canada,2023-12-24,Social
+1995,Olivia,Nguyen,customer1995@example.com,United States,2024-03-25,Social
+1996,Jennifer,Patel,customer1996@example.com,Canada,2023-05-02,Paid Search
+1997,Yuki,Martinez,customer1997@example.com,Australia,2024-04-23,Paid Search
+1998,Elizabeth,Kim,customer1998@example.com,United States,2023-04-29,Social
+1999,David,Mueller,customer1999@example.com,Canada,2023-02-14,Organic Search
+2000,Ana,Brown,customer2000@example.com,France,2024-07-09,Direct

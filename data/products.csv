@@ -1,0 +1,221 @@
+product_id,product_name,category,unit_price,unit_cost
+1,Lamp 904,Home & Kitchen,175.7,110.24
+2,Serum 383,Beauty,113.04,81.31
+3,Cookbook 818,Books,10.64,6.04
+4,Coffee Maker 249,Home & Kitchen,201.17,121.71
+5,Biography 948,Books,15.91,12.24
+6,Lamp 963,Home & Kitchen,49.48,36.06
+7,Textbook 601,Books,16.57,12.26
+8,Air Fryer 747,Home & Kitchen,293.13,161.76
+9,Hoodie 524,Apparel,97.53,57.04
+10,Moisturizer 177,Beauty,105.02,80.64
+11,Novel 512,Books,22.32,14.76
+12,Backpack 384,Sports,165.58,120.73
+13,Biography 565,Books,19.99,12.33
+14,Perfume 695,Beauty,56.41,32.32
+15,Smartphone 848,Electronics,916.2,506.8
+16,Sunscreen 780,Beauty,80.18,47.76
+17,Biography 970,Books,15.06,10.68
+18,Speaker 323,Electronics,1192.1,887.43
+19,Lipstick 606,Beauty,33.29,19.77
+20,Jacket 948,Apparel,157.53,104.13
+21,Jacket 660,Apparel,35.02,26.81
+22,Dumbbell Set 679,Sports,411.72,327.72
+23,Perfume 798,Beauty,109.89,83.84
+24,Headphones 201,Electronics,138.88,80.01
+25,Textbook 116,Books,28.19,19.25
+26,Laptop 551,Electronics,592.92,384.92
+27,Serum 538,Beauty,56.3,38.98
+28,Toaster 235,Home & Kitchen,15.8,9.72
+29,Biography 262,Books,26.21,19.15
+30,T-Shirt 770,Apparel,41.26,28.33
+31,Jacket 184,Apparel,132.03,87.29
+32,Hoodie 764,Apparel,16.55,10.96
+33,Blender 505,Home & Kitchen,129.13,101.03
+34,Biography 843,Books,10.86,7.74
+35,Cookbook 539,Books,8.06,5.33
+36,Novel 820,Books,27.61,17.24
+37,Headphones 318,Electronics,589.68,348.44
+38,Serum 235,Beauty,42.06,29.66
+39,Dumbbell Set 631,Sports,164.86,127.76
+40,Textbook 109,Books,30.51,20.13
+41,Camera 936,Electronics,123.41,83.29
+42,Speaker 810,Electronics,936.55,577.28
+43,Vacuum 172,Home & Kitchen,325.61,199.58
+44,Vacuum 191,Home & Kitchen,332.14,189.76
+45,Novel 205,Books,39.78,26.84
+46,Jacket 406,Apparel,61.82,38.1
+47,Vacuum 892,Home & Kitchen,181.32,145.01
+48,Toaster 793,Home & Kitchen,99.83,57.48
+49,Blender 643,Home & Kitchen,240.24,161.47
+50,Yoga Mat 724,Sports,271.61,194.67
+51,Cookbook 550,Books,16.42,12.77
+52,Hoodie 318,Apparel,85.19,49.6
+53,Journal 255,Books,34.95,24.84
+54,Shampoo 803,Beauty,43.36,30.59
+55,Lipstick 188,Beauty,32.62,21.57
+56,Laptop 870,Electronics,1087.34,634.34
+57,Speaker 459,Electronics,513.1,387.54
+58,Perfume 910,Beauty,116.58,77.35
+59,Coffee Maker 383,Home & Kitchen,210.19,145.67
+60,Novel 354,Books,42.36,32.39
+61,Tent 714,Sports,101.89,67.16
+62,Comic 391,Books,24.1,18.01
+63,Novel 968,Books,29.51,21.06
+64,Biography 310,Books,44.93,25.55
+65,Tent 621,Sports,127.04,82.83
+66,Toaster 501,Home & Kitchen,148.9,82.7
+67,Hoodie 155,Apparel,27.42,19.75
+68,Vacuum 495,Home & Kitchen,353.54,239.9
+69,Tablet 611,Electronics,683.89,419.75
+70,Comic 172,Books,35.95,26.53
+71,Yoga Mat 469,Sports,302.42,182.41
+72,Jeans 496,Apparel,28.3,16.02
+73,Running Shoes 474,Sports,304.49,230.27
+74,Backpack 276,Sports,432.0,287.67
+75,Serum 117,Beauty,95.84,75.4
+76,Yoga Mat 114,Sports,152.08,98.77
+77,Jeans 140,Apparel,168.49,106.92
+78,Speaker 618,Electronics,1103.54,877.6
+79,Hoodie 829,Apparel,123.18,92.91
+80,Running Shoes 533,Sports,379.78,275.3
+81,Textbook 184,Books,17.97,10.14
+82,Comic 650,Books,19.38,13.89
+83,Dumbbell Set 384,Sports,69.21,38.27
+84,Smartwatch 180,Electronics,236.46,172.36
+85,Dumbbell Set 927,Sports,486.94,387.49
+86,Air Fryer 434,Home & Kitchen,205.18,157.44
+87,Shampoo 749,Beauty,90.52,61.12
+88,Journal 758,Books,28.34,16.56
+89,Smartwatch 815,Electronics,1130.18,721.03
+90,Sunscreen 966,Beauty,57.97,41.62
+91,Blender 350,Home & Kitchen,143.55,88.08
+92,Speaker 218,Electronics,786.78,437.64
+93,Shampoo 723,Beauty,88.72,60.2
+94,Smartwatch 782,Electronics,758.44,536.95
+95,Journal 858,Books,26.55,18.47
+96,Blender 112,Home & Kitchen,278.26,205.43
+97,Cookbook 818,Books,34.37,26.38
+98,Laptop 608,Electronics,292.18,190.0
+99,Dress 629,Apparel,171.23,111.15
+100,Biography 270,Books,10.87,7.41
+101,Jeans 867,Apparel,30.39,18.26
+102,Hoodie 220,Apparel,179.72,123.17
+103,Camera 926,Electronics,398.15,318.0
+104,Perfume 636,Beauty,116.25,76.75
+105,Smartwatch 829,Electronics,371.65,282.31
+106,Backpack 178,Sports,363.5,262.35
+107,Moisturizer 623,Beauty,108.03,78.04
+108,T-Shirt 611,Apparel,59.68,43.18
+109,Dumbbell Set 476,Sports,166.79,123.39
+110,Cookware Set 891,Home & Kitchen,253.6,144.39
+111,Smartphone 333,Electronics,654.38,416.07
+112,Comic 102,Books,18.81,13.18
+113,Headphones 350,Electronics,441.0,328.2
+114,Monitor 472,Electronics,159.29,113.91
+115,Lipstick 283,Beauty,98.63,70.84
+116,Speaker 329,Electronics,636.9,501.61
+117,Jeans 526,Apparel,62.39,34.61
+118,Biography 377,Books,22.85,12.76
+119,Camera 222,Electronics,1148.41,691.89
+120,Backpack 153,Sports,398.68,296.48
+121,Coffee Maker 923,Home & Kitchen,98.83,69.71
+122,Yoga Mat 510,Sports,43.08,28.9
+123,Monitor 986,Electronics,96.4,75.22
+124,Cap 965,Apparel,175.98,106.57
+125,Jacket 188,Apparel,46.96,34.68
+126,Running Shoes 108,Sports,141.62,109.58
+127,Jeans 398,Apparel,108.42,69.14
+128,Bicycle 857,Sports,419.69,282.6
+129,Dumbbell Set 575,Sports,457.58,357.83
+130,Dress 605,Apparel,39.79,21.91
+131,Toaster 659,Home & Kitchen,393.81,305.81
+132,Coffee Maker 106,Home & Kitchen,36.35,27.56
+133,Serum 338,Beauty,59.27,36.44
+134,Bicycle 751,Sports,441.8,264.71
+135,Novel 443,Books,42.94,25.82
+136,Speaker 969,Electronics,767.33,464.83
+137,Journal 414,Books,27.28,19.67
+138,Tablet 642,Electronics,293.06,199.35
+139,Vacuum 603,Home & Kitchen,195.59,111.05
+140,Laptop 828,Electronics,996.5,631.7
+141,T-Shirt 144,Apparel,108.53,73.66
+142,Lamp 632,Home & Kitchen,212.61,122.63
+143,Sunscreen 481,Beauty,55.43,36.76
+144,Sunscreen 186,Beauty,90.17,68.53
+145,Yoga Mat 617,Sports,281.59,160.98
+146,Toaster 939,Home & Kitchen,106.19,62.78
+147,Serum 706,Beauty,21.96,14.09
+148,Yoga Mat 545,Sports,130.11,78.66
+149,Cookbook 342,Books,8.13,4.51
+150,Jacket 971,Apparel,29.27,17.36
+151,Cap 502,Apparel,84.41,57.2
+152,Journal 434,Books,11.48,7.53
+153,Sneakers 378,Apparel,69.41,41.36
+154,Blender 307,Home & Kitchen,17.63,11.75
+155,Lamp 888,Home & Kitchen,278.98,169.22
+156,Yoga Mat 259,Sports,83.27,64.26
+157,Laptop 560,Electronics,388.03,235.11
+158,Perfume 516,Beauty,103.99,78.44
+159,Camera 888,Electronics,582.15,391.39
+160,Vacuum 415,Home & Kitchen,98.83,56.29
+161,Perfume 972,Beauty,72.22,41.5
+162,Smartphone 261,Electronics,583.19,457.88
+163,Biography 946,Books,43.16,26.32
+164,Journal 717,Books,30.34,20.28
+165,Tablet 955,Electronics,1060.77,655.4
+166,Jeans 193,Apparel,12.62,7.45
+167,Cookbook 464,Books,19.63,12.35
+168,Shampoo 150,Beauty,96.63,69.59
+169,Biography 366,Books,17.68,11.75
+170,Blender 514,Home & Kitchen,51.79,40.11
+171,Shampoo 866,Beauty,112.77,89.65
+172,Dumbbell Set 196,Sports,436.91,259.3
+173,Serum 923,Beauty,13.17,9.15
+174,Blender 112,Home & Kitchen,366.35,217.74
+175,Tablet 233,Electronics,87.89,66.04
+176,Lamp 510,Home & Kitchen,44.57,29.12
+177,Hoodie 745,Apparel,126.05,76.79
+178,Novel 696,Books,9.27,6.88
+179,Bicycle 932,Sports,322.48,257.06
+180,Headphones 166,Electronics,465.62,263.28
+181,Toaster 554,Home & Kitchen,297.72,202.58
+182,Blender 967,Home & Kitchen,97.08,72.37
+183,T-Shirt 143,Apparel,46.23,28.44
+184,Serum 272,Beauty,18.36,11.93
+185,Running Shoes 941,Sports,221.09,150.04
+186,Textbook 608,Books,33.65,26.13
+187,Speaker 799,Electronics,234.26,132.03
+188,Lipstick 462,Beauty,10.08,5.91
+189,Coffee Maker 381,Home & Kitchen,268.31,196.37
+190,Sneakers 252,Apparel,144.13,88.05
+191,Tablet 762,Electronics,422.6,283.47
+192,Sneakers 521,Apparel,22.61,15.89
+193,Running Shoes 162,Sports,492.19,315.1
+194,Smartwatch 492,Electronics,923.19,623.16
+195,Vacuum 304,Home & Kitchen,64.21,44.66
+196,Comic 355,Books,17.7,9.89
+197,Comic 913,Books,30.76,23.52
+198,Speaker 900,Electronics,466.14,301.86
+199,Biography 591,Books,40.75,30.7
+200,Running Shoes 452,Sports,363.18,222.34
+201,Tent 429,Sports,456.9,268.93
+202,Perfume 284,Beauty,78.2,43.57
+203,Camera 711,Electronics,800.97,496.03
+204,Blender 930,Home & Kitchen,188.13,119.71
+205,T-Shirt 928,Apparel,41.02,28.94
+206,Shampoo 466,Beauty,106.78,84.33
+207,Dumbbell Set 263,Sports,112.33,81.93
+208,Tablet 772,Electronics,824.06,523.97
+209,Cookware Set 646,Home & Kitchen,22.35,16.15
+210,Novel 882,Books,42.87,30.35
+211,Air Fryer 966,Home & Kitchen,182.59,124.4
+212,Perfume 959,Beauty,30.36,22.39
+213,Coffee Maker 342,Home & Kitchen,302.37,177.3
+214,Bicycle 925,Sports,441.43,272.49
+215,Journal 467,Books,44.31,28.61
+216,Yoga Mat 820,Sports,105.38,67.23
+217,Biography 681,Books,23.17,13.14
+218,Dumbbell Set 676,Sports,297.54,208.1
+219,Lamp 929,Home & Kitchen,299.49,166.9
+220,Shampoo 416,Beauty,68.62,38.65
